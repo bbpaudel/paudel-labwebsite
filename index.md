@@ -3,8 +3,7 @@
 
 # bbpaudel's Website
 
-An engaging 1-3 sentence description of your lab.
-
+Welcome to Paudel Lab at the University of Virginia
 {% include section.html %}
 
 ## Highlights

@@ -1,6 +1,6 @@
 ---
 name: B. Bishal Paudel
-image: images/photo.jpg
+image: images/Paudel_headshot.jpg
 role: principal-investigator
 affiliation: University of Virginia
 aliases:

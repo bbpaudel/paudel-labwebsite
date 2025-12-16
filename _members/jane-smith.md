@@ -1,14 +1,15 @@
 ---
-name: Jane Smith
+name: B. Bishal Paudel
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Virginia
 aliases:
-  - J. Smith
-  - J Smith
+  - B. Paudel
+  - B Paudel
+  - BB Paudel
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-5426-7048
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

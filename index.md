@@ -1,9 +1,9 @@
 ---
 ---
 
-# bbpaudel's Website
+# P3 Systems Biology Lab
 
-Welcome to Paudel Lab at the University of Virginia
+Welcome to Paudel Lab at the University of Virginia Comprehensive Cancer Center. 
 {% include section.html %}
 
 ## Highlights

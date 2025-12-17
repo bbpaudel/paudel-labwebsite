@@ -8,14 +8,8 @@ aliases:
   - B Paudel
   - BB Paudel
 links:
-  home-page: https://janesmith.com
+  home-page: https://www.linkedin.com/in/paudelbb/
   orcid: 0000-0002-5426-7048
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am a systems biologist working at the interface of cancer biology and computational biology with research focused on understanding how dysfunctional biochemical signaling arise, how dysregulated signaling leads to emergent cancer phenotypes, and how those states can be engineered for desired outcomes.

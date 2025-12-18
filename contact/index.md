@@ -12,8 +12,8 @@ For more information about our research or interests in potential collaboration,
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="p3sysbiolab@gmail.com"
+  link="p3sysbiolab@gmail.com"
 %}
 {%
   include button.html

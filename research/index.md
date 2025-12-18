@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research uses a systems bioengineering approach to investigate how aberrant signaling leads to distinct metabolic and epigenetic states, and to devise strategies for therapeutic reprogramming. P3SystemsBiology lab will focus on two main research areas: (1) network-level regulation of metabolic heterogeneity and (2) oncogene-induced alterations in the epigenome and cancer phenotypes. We integrate bioengineering, mechanistic and statistical modeling with single-cell and population-level experiments to identify metabolic vulnerabilities and drivers of early cancer progression. The long-term objective of our research program is to gain a predictive understanding of how dysregulated signaling generates specific metabolic and epigenetic states and how these states can be reprogrammed for therapeutic benefit. Lab prides itself in interdisciplinary focus in biological and quantitative sciences, combined with significant experience leading collaborative teams, and is positioned to tackle these complex questions at the intersection of cancer biology, computational bioengineering, and quantitative systems pharmacology.<img width="468" height="139" alt="image" src="https://github.com/user-attachments/assets/e8561636-99cb-4ef2-a3cb-8412c85b010b" />
+
 
 {% include section.html %}
 

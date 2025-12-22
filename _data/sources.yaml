@@ -9,11 +9,9 @@
   tags:
     - acute myeloid leukemia
     - cancer metabolism
-  
+
 - id: doi:10.1038/s41467-023-37914-x
   type: paper
-  title: "Title auto-resolved from DOI"
-  date: 2023-05-08
   image: https://www.nature.com/articles/s41467-023-37914-x/figures/7
   buttons:
     - type: doi

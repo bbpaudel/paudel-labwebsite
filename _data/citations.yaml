@@ -55,7 +55,7 @@
     '
   image: https://ashpublications.org/view-large/figure/12166862/BLOODA_ADV-2023-010535-gr2.jpg
   buttons:
-  - type: manubot
+  - type: paper
   tags:
   - AML
   - metabolism

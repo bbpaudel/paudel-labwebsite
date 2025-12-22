@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This page highlights software tools, datasets, and research-driven resources developed to support data analysis, reproducibility, and integrative modeling. The projects span methodological development, computational workflows, and applied analyses, with an emphasis on transparency, usability, and impact across biomedical and quantitative research. We welcome feedback, comments on the usability of these tools.
 
 {% include tags.html tags="publication, resource, website" %}
 

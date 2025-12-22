@@ -48,7 +48,7 @@ We develop and apply **computational tools**, statistical frameworks, and networ
 
 {%
   include feature.html
-  image="images/Paudel_R2.png"
+  image="images/P3_Theme.png"
   link="projects"
   title="Our Projects"
   flip=true

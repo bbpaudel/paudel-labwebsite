@@ -1,192 +1,229 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s44320-024-00064-3
+  title: Proteome-wide copy-number estimation from transcriptomics
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Andrew J Sweatt
+  - Cameron D Griffiths
+  - Sarah M Groves
+  - B Bishal Paudel
+  - Lixin Wang
+  - David F Kashatus
+  - Kevin A Janes
+  publisher: Molecular Systems Biology
+  date: '2024-09-27'
+  link: https://doi.org/hbgjzt
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/bloodadvances.2023010535
+  title: Acute myeloid leukemia stratifies as 2 clinically relevant sphingolipidomic
+    subtypes
+  authors:
+  - B. Bishal Paudel
+  - Su-Fern Tan
+  - Todd E. Fox
+  - Johnson Ung
+  - Upendarrao Golla
+  - Jeremy J. P. Shaw
+  - Wendy Dunton
+  - Irene Lee
+  - Wisam A. Fares
+  - Satyam Patel
+  - Arati Sharma
+  - Aaron D. Viny
+  - Brian M. Barth
+  - Martin S. Tallman
+  - Myles Cabot
+  - Francine E. Garrett-Bakelman
+  - Ross L. Levine
+  - Mark Kester
+  - David J. Feith
+  - David Claxton
+  - Kevin A. Janes
+  - Thomas P. Loughran
+  publisher: Blood Advances
+  date: '2024-02-29'
+  link: https://doi.org/hbgjzv
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-37914-x
+  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
+    the DCIS-like state
+  authors:
+  - Lixin Wang
+  - B. Bishal Paudel
+  - R. Anthony McKnight
+  - Kevin A. Janes
+  publisher: Nature Communications
+  date: '2023-04-13'
+  link: https://doi.org/hbgjzw
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.03.479045
+  title: A heterogeneous drug tolerant persister state in BRAF-mutant melanoma is
+    characterized by ion channel dysregulation and susceptibility to ferroptosis
+  authors:
+  - Corey E. Hayford
+  - Philip E. Stauffer
+  - Blake Baleami
+  - B. Bishal Paudel
+  - Darren R. Tyson
+  - "Aziz Al\u2019Khafaji"
+  - Kaitlyn E. Johnson
+  - Leonard A. Harris
+  - Amy Brock
+  - Vito Quaranta
   publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2022-02-05'
+  link: https://doi.org/gsz4xq
+  orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/818989
+  title: Disruption of Redox Balance Enhances the Effects of BRAF-inhibition in Melanoma
+    Cells
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2019-10-28'
+  link: https://doi.org/gkv4d4
+  orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3389/fonc.2020.01426
+  title: Drug-Tolerant Idling Melanoma Cells Exhibit Theory-Predicted Metabolic Low-Low
+    Phenotype
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Dongya Jia
+  - B. Bishal Paudel
+  - Corey E. Hayford
+  - Keisha N. Hardeman
+  - Herbert Levine
+  - "Jos\xE9 N. Onuchic"
+  - Vito Quaranta
+  publisher: Frontiers in Oncology
+  date: '2020-08-14'
+  link: https://doi.org/hbgjzx
+  orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1126/scisignal.aax9742
+  title: Dynamics of drug response informs rational combination regimens
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - B. Bishal Paudel
+  - Vito Quaranta
+  publisher: Science Signaling
+  date: '2019-08-20'
+  link: https://doi.org/hbgjzz
+  orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.cels.2019.01.003
+  title: Quantifying Drug Combination Synergy along Potency and Efficacy Axes
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Christian T. Meyer
+  - David J. Wooten
+  - B. Bishal Paudel
+  - Joshua Bauer
+  - Keisha N. Hardeman
+  - David Westover
+  - Christine M. Lovly
+  - Leonard A. Harris
+  - Darren R. Tyson
+  - Vito Quaranta
+  publisher: Cell Systems
+  date: '2019-02-01'
+  link: https://doi.org/hbgjz2
+  orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1073/pnas.1900169116
+  title: Metabolic plasticity meets gene regulation
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - B. Bishal Paudel
+  - Vito Quaranta
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-02-08'
+  link: https://doi.org/g5gbkt
+  orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.bpj.2018.01.016
+  title: "A Nonquiescent \u201CIdling\u201D Population State in Drug-Treated, BRAF-Mutated\
+    \ Melanoma"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - B. Bishal Paudel
+  - Leonard A. Harris
+  - Keisha N. Hardeman
+  - Arwa A. Abugable
+  - Corey E. Hayford
+  - Darren R. Tyson
+  - Vito Quaranta
+  publisher: Biophysical Journal
+  date: '2018-03-01'
+  link: https://doi.org/gdbpdp
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep42604
+  title: Dependence On Glycolysis Sensitizes BRAF-mutated Melanomas For Increased
+    Response To Targeted BRAF Inhibition
+  authors:
+  - Keisha N. Hardeman
+  - Chengwei Peng
+  - Bishal B. Paudel
+  - Christian T. Meyer
+  - Thong Luong
+  - Darren R. Tyson
+  - Jamey D. Young
+  - Vito Quaranta
+  - Joshua P. Fessel
+  publisher: Scientific Reports
+  date: '2017-02-16'
+  link: https://doi.org/f9qwxw
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nmeth.3852
+  title: An unbiased metric of antiproliferative drug effect in vitro
+  authors:
+  - Leonard A Harris
+  - Peter L Frick
+  - Shawn P Garbett
+  - Keisha N Hardeman
+  - B Bishal Paudel
+  - Carlos F Lopez
+  - Vito Quaranta
+  - Darren R Tyson
+  publisher: Nature Methods
+  date: '2016-05-02'
+  link: https://doi.org/gkmkmc
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jcp.24888
+  title: Quantifying heterogeneity and dynamics of clonal fitness in response to perturbation
+  authors:
+  - Peter L. Frick
+  - Bishal B. Paudel
+  - Darren R. Tyson
+  - Vito Quaranta
+  publisher: Journal of Cellular Physiology
+  date: '2015-03-27'
+  link: https://doi.org/hbgjz3
+  orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -202,9 +239,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -221,21 +255,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1182/bloodadvances.2023010535
   title: Acute myeloid leukemia stratifies as 2 clinically relevant sphingolipidomic
     subtypes

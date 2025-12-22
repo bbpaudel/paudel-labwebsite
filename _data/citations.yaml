@@ -17,8 +17,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1182/bloodadvances.2023010535
-  title: Acute myeloid leukemia stratifies as 2 clinically relevant sphingolipidomic
-    subtypes
+  title: Biochemical measurements integrated with current risk classifiers identify
+    unique subtypes in AML
   authors:
   - B. Bishal Paudel
   - Su-Fern Tan
@@ -43,25 +43,40 @@
   - Kevin A. Janes
   - Thomas P. Loughran
   publisher: Blood Advances
-  date: '2024-02-29'
+  date: '2024-03-01'
   link: https://doi.org/hbgjzv
   orcid: 0000-0002-5426-7048
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ashpublications.org/view-large/figure/12166862/BLOODA_ADV-2023-010535-gr2.jpg
+  buttons:
+  - type: doi
+    link: https://doi.org/10.1182/bloodadvances.2023010535
+  tags:
+  - acute myeloid leukemia
+  - cancer metabolism
 - id: doi:10.1038/s41467-023-37914-x
-  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
-    the DCIS-like state
+  title: Title auto-resolved from DOI
   authors:
   - Lixin Wang
   - B. Bishal Paudel
   - R. Anthony McKnight
   - Kevin A. Janes
   publisher: Nature Communications
-  date: '2023-04-13'
+  date: '2023-05-08'
   link: https://doi.org/hbgjzw
   orcid: 0000-0002-5426-7048
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://www.nature.com/articles/s41467-023-37914-x/figures/7
+  buttons:
+  - type: doi
+    link: https://doi.org/10.1038/s41467-023-37914-x
+  tags:
+  - systems biology
+  - metabolism
 - id: doi:10.1101/2022.02.03.479045
   title: A heterogeneous drug tolerant persister state in BRAF-mutant melanoma is
     characterized by ion channel dysregulation and susceptibility to ferroptosis
@@ -226,49 +241,3 @@
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: https://doi.org/10.1182/bloodadvances.2023010535
-  title: Acute myeloid leukemia stratifies as 2 clinically relevant sphingolipidomic
-    subtypes
-  authors:
-  - B. Bishal Paudel
-  - Su-Fern Tan
-  - Todd E. Fox
-  - Johnson Ung
-  - Upendarrao Golla
-  - Jeremy J. P. Shaw
-  - Wendy Dunton
-  - Irene Lee
-  - Wisam A. Fares
-  - Satyam Patel
-  - Arati Sharma
-  - Aaron D. Viny
-  - Brian M. Barth
-  - Martin S. Tallman
-  - Myles Cabot
-  - Francine E. Garrett-Bakelman
-  - Ross L. Levine
-  - Mark Kester
-  - David J. Feith
-  - David Claxton
-  - Kevin A. Janes
-  - Thomas P. Loughran
-  publisher: Blood Advances
-  date: '2024-03-12'
-  link: https://ashpublications.org/bloodadvances/article/8/5/1137/506924/Acute-myeloid-leukemia-stratifies-as-2-clinically
-  image: https://ashpublications.org/view-large/figure/12166859/BLOODA_ADV-2023-010535-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.1038/s41467-023-37914-x
-  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
-    the DCIS-like state
-  authors:
-  - Lixin Wang
-  - B. Bishal Paudel
-  - R. Anthony McKnight
-  - Kevin A. Janes
-  publisher: Nature Communications
-  date: '2023-04-13'
-  link: https://www.nature.com/articles/s41467-023-37914-x
-  image: https://www.nature.com/articles/s41467-023-37914-x/figures/7
-  plugin: sources.py
-  file: sources.yaml

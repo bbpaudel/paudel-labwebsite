@@ -8,12 +8,12 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: CRISPR Summary & Visualization
+  subtitle: A simple web-tool to visualize and summarize genome-wide CRISPR data
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://paudelbbapps.shinyapps.io/shinyApp_v2/
+  description: This tool will allow you to visualize your CRISPR screen data once you have the count table and gene summary table obtained by Mageck.
   repo: greenelab/lab-website-template
   tags:
     - resource

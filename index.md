@@ -3,14 +3,14 @@
 
 # P3 Systems Biology Lab
 
-Welcome to Paudel Lab at the University of Virginia Comprehensive Cancer Center. 
+Welcome to the **Paudel Lab** at the **University of Virginia Comprehensive Cancer Center**. We develop **data-driven and systems biology approaches** to understand cancer metabolism, drug response, and cellular heterogeneity by integrating multi-omics data, computational modeling, and experimental measurements.
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on **integrating transcriptomics, proteomics, lipidomics, and functional assays** to build quantitative models of cancer cell behavior. We are particularly interested in **acute myeloid leukemia (AML)** and how metabolic network states shape therapeutic response and resistance.
 
 {%
   include button.html
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop and apply **computational tools**, statistical frameworks, and network-based models to analyze complex biological datasets. Our projects span **experimentation, multi-modal data integration, metabolic network modeling, and statistical modeling for predictive signatures** that support translational cancer research.
 
 {%
   include button.html
@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab brings together researchers with backgrounds in **biology, data science, engineering, and medicine**. We value collaboration, mentorship, and rigorous quantitative thinking, and we are always excited to work with motivated students and trainees.
 
 {%
   include button.html

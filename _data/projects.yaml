@@ -1,13 +1,3 @@
-- title: Data Explorer
-  subtitle: Summary of all available data in AML
-  group: featured
-  image: images/photo.jpg
-  link: https://paudelbbapps.shinyapps.io/P01_DataBase/
-  description: List of available datasets for AML within NCI funded P01 within UVA/PSU/Wake/MSKCC
-  repo: 
-  tags:
-    - resource
-    - summary
 
 - title: CRISPR Summary & Visualization
   subtitle: A simple web-tool to visualize and summarize genome-wide CRISPR data
@@ -29,6 +19,17 @@
   tags:
     - software
     - resource
+
+- title: Data Explorer
+  subtitle: Summary of all available data in AML
+  group: featured
+  image: images/photo.jpg
+  link: https://paudelbbapps.shinyapps.io/P01_DataBase/
+  description: List of available datasets for AML within NCI funded P01 within UVA/PSU/Wake/MSKCC
+  repo: 
+  tags:
+    - resource
+    - summary
 
 - title: RNA-to-Protein Relationship
   subtitle: How does mRNA abundance relate to protein abundances?

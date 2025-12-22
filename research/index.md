@@ -3,6 +3,8 @@ title: Research
 nav:
   order: 1
   tooltip: Published works
+highlighted:
+  - doi:10.1182/bloodadvances.2023010535
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -11,16 +13,8 @@ Our research uses a systems bioengineering approach to investigate how aberrant 
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
-
 {% include search-info.html %}
-
 {% include list.html data="citations" component="citation" style="rich" %}

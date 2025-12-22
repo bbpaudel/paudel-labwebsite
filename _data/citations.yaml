@@ -17,8 +17,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1182/bloodadvances.2023010535
-  title: Biochemical measurements integrated with current risk classifiers identify
-    unique subtypes in AML
+  title: Acute myeloid leukemia stratifies as 2 clinically relevant sphingolipidomic
+    subtypes
   authors:
   - B. Bishal Paudel
   - Su-Fern Tan
@@ -49,13 +49,17 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  description: 'Biochemical and metabolic profiling integrated with current AML risk
+    classifiers identifies distinct molecular subtypes with differential drug sensitivities.
+
+    '
   image: https://ashpublications.org/view-large/figure/12166862/BLOODA_ADV-2023-010535-gr2.jpg
   buttons:
-  - type: doi
-    link: https://doi.org/10.1182/bloodadvances.2023010535
+  - type: manubot
   tags:
-  - acute myeloid leukemia
-  - cancer metabolism
+  - AML
+  - metabolism
+  - risk classification
 - id: doi:10.1038/s41467-023-37914-x
   title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
     the DCIS-like state

@@ -12,6 +12,7 @@
   
 - title: HexSM Predictor
   subtitle: Predict HexSM lipid subtypes from gene expression data (Paudel et al. Blood Adv, 2024)
+  group: featured
   image: images/photo.jpg
   link: https://paudelbbapps.shinyapps.io/PredSM/
   description: SVM classifier to predict HexSM lipid subtype using normalized gene expression data
@@ -22,7 +23,6 @@
 
 - title: Data Explorer
   subtitle: Summary of all available data in AML
-  group: featured
   image: images/photo.jpg
   link: https://paudelbbapps.shinyapps.io/P01_DataBase/
   description: List of available datasets for AML within NCI funded P01 within UVA/PSU/Wake/MSKCC

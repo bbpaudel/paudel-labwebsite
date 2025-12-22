@@ -1,12 +1,13 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Data Explorer
+  subtitle: Summary of all available data in AML
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://paudelbbapps.shinyapps.io/P01_DataBase/
+  description: List of available datasets for AML within NCI funded P01 within UVA/PSU/Wake/MSKCC
+  repo: 
   tags:
     - resource
+    - summary
 
 - title: CRISPR Summary & Visualization
   subtitle: A simple web-tool to visualize and summarize genome-wide CRISPR data
@@ -14,34 +15,27 @@
   image: images/photo.jpg
   link: https://paudelbbapps.shinyapps.io/shinyApp_v2/
   description: This tool will allow you to visualize your CRISPR screen data once you have the count table and gene summary table obtained by Mageck.
-  repo: greenelab/lab-website-template
+  repo:
   tags:
     - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
+    - tool
+  
+- title: HexSM Predictor
+  subtitle: Predict HexSM lipid subtypes from gene expression data (Paudel et al. Blood Adv, 2024)
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://paudelbbapps.shinyapps.io/PredSM/
+  description: SVM classifier to predict HexSM lipid subtype using normalized gene expression data
+  repo: 
   tags:
+    - software
     - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: RNA-to-Protein Relationship
+  subtitle: How does mRNA abundance relate to protein abundances?
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://janeslab.shinyapps.io/Pinferna/
+  description: Developed by Janes lab to examine relationship between mRNA and protein.
+  repo: 
   tags:
     - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - resource

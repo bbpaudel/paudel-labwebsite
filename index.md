@@ -25,7 +25,7 @@ Our research focuses on **integrating transcriptomics, proteomics, lipidomics, a
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Paudel_R1.png"
   link="research"
   title="Our Research"
   text=text
@@ -48,7 +48,7 @@ We develop and apply **computational tools**, statistical frameworks, and networ
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Paudel_R2.png"
   link="projects"
   title="Our Projects"
   flip=true

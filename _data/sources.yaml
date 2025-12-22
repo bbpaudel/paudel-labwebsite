@@ -1,4 +1,21 @@
-
+- id: doi: https://doi.org/10.1182/bloodadvances.2023010535
+  type: research paper
+  description: Biochemical measurements integrated with current risk classifier identify unique subtypes in AML
+  date: 2020-12-4
+  image: https://ashpublications.org/view-large/figure/12166862/BLOODA_ADV-2023-010535-gr2.jpg
+  buttons:
+    - type: manubot
+      link: 
+    - type: source
+      text: Manuscript Source
+      link: 
+    - type: website
+      link: http://manubot.org/
+  tags:
+    - open science
+    - collaboration
+  repo: 
+  
 - id: https://doi.org/10.1182/bloodadvances.2023010535
   image: https://ashpublications.org/view-large/figure/12166859/BLOODA_ADV-2023-010535-gr1.jpg
 

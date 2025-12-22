@@ -17,9 +17,7 @@ We are systems biology group with team members coming from diverse academic back
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always interested in working with motivated individuals with interests in pursuing interdisciplinary research.
 
 {% include section.html %}
 

@@ -57,14 +57,15 @@
   - acute myeloid leukemia
   - cancer metabolism
 - id: doi:10.1038/s41467-023-37914-x
-  title: Title auto-resolved from DOI
+  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
+    the DCIS-like state
   authors:
   - Lixin Wang
   - B. Bishal Paudel
   - R. Anthony McKnight
   - Kevin A. Janes
   publisher: Nature Communications
-  date: '2023-05-08'
+  date: '2023-04-13'
   link: https://doi.org/hbgjzw
   orcid: 0000-0002-5426-7048
   plugin: sources.py

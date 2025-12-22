@@ -1,14 +1,16 @@
 - id: doi:10.1182/bloodadvances.2023010535
   type: paper
-  title: "Biochemical measurements integrated with current risk classifiers identify unique subtypes in AML"
+  description: >
+    Biochemical and metabolic profiling integrated with current AML risk classifiers
+    identifies distinct molecular subtypes with differential drug sensitivities.
   date: 2024-03-01
   image: https://ashpublications.org/view-large/figure/12166862/BLOODA_ADV-2023-010535-gr2.jpg
   buttons:
-    - type: doi
-      link: https://doi.org/10.1182/bloodadvances.2023010535
+    - type: manubot
   tags:
-    - acute myeloid leukemia
-    - cancer metabolism
+    - AML
+    - metabolism
+    - risk classification
 
 - id: doi:10.1038/s41467-023-37914-x
   type: paper

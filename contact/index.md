@@ -3,12 +3,21 @@ title: Contact
 nav:
   order: 5
   tooltip: Email, address, and location
+header: images/P3_Theme.jpg
+header-dark: true
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-For more information about our research or interests in potential collaboration, please contact us at bp5sq@virginia.edu or p3sysbiolab@gmail.com.
+For more information about our research, data resources, or potential collaborations, please feel free to reach out.  
+Prospective students and postdoctoral fellows are also encouraged to contact us with a brief description of their interests.
 
+{%
+  include button.html
+  type="email"
+  text="bp5sq@virginia.edu"
+  link="bp5sq@virginia.edu"
+%}
 {%
   include button.html
   type="email"
@@ -17,36 +26,35 @@ For more information about our research or interests in potential collaboration,
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="View our location on Google Maps"
+  link="https://www.google.com/maps/place/University+of+Virginia"
 %}
 
 {% include section.html %}
 
 {% capture col1 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+### Mailing Address
+
+**P3 (Predict, Perturb & Profile) Systems Biology Lab**  
+Department of Medicine and Biomedical Engineering  
+University of Virginia  
+Charlottesville, VA, USA
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+### Research & Collaboration
+
+We are interested in collaborations related to:
+- Systems biology and network modeling  
+- Cancer metabolism and AML  
+- Multi-omics data integration  
+- Translational and computational approaches  
+
+Please include relevant background or project ideas when reaching out.
 
 {% endcapture %}
 
@@ -55,21 +63,34 @@ For more information about our research or interests in potential collaboration,
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
+### Prospective Students
+
+Graduate students interested in rotations or thesis research should include:
+- A brief statement of interest  
+- Relevant coursework or experience  
+
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
+### Postdoctoral Fellows
+
+Postdoctoral applicants should include:
+- CV  
+- Brief summary of research interests  
+- Names of potential referees  
+
+Funding opportunities may be available through institutional and external funding mechanisms.
+
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
+### Data & Software
+
+For access to software, datasets, or code developed by the lab, please visit our GitHub page or contact us directly with specific questions.
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

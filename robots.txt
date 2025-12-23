@@ -1,1 +1,1 @@
-Sitemap: https://bbpaudel.github.io/paudel-labwebsite/sitemap.xml
+Sitemap: http://p3sysbiolab.org/sitemap.xml

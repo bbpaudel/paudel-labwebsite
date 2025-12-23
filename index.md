@@ -73,7 +73,7 @@ Our lab brings together researchers with backgrounds in **biology, data science,
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Lab_group.png"
   link="team"
   title="Our Team"
   text=text

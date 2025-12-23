@@ -2,7 +2,7 @@
 name: Undergrad
 image: images/photo.jpg
 role: Undergraduate
-group: current
+group: trainee
 links:
   github: UG-1
 ---

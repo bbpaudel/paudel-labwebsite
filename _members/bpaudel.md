@@ -13,3 +13,5 @@ links:
 ---
 
 I am a systems biologist working at the interface of cancer biology and computational biology with research focused on understanding how dysfunctional biochemical signaling arise, how dysregulated signaling leads to emergent cancer phenotypes, and how those states can be engineered for desired outcomes. 
+
+I got my undergraduate degree in Chemistry and Mathematics from The College of Idaho and my PhD in Chemical and Physical Biology at the Vanderbilt University (Advisor: Dr. Vito Quaranta). I moved to the University of Virginia for my postdoctoral training with Dr. Kevin Janes in the Department of Biomedical Engineering. 

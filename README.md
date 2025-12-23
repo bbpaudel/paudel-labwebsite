@@ -5,6 +5,6 @@
 
   # bbpaudel's Website
 
-  Visit **[www.p3sysbiolab.org](http://www.p3sysbiolab.org)** 🚀
+  Visit **[p3sysbiolab.org](http://p3sysbiolab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

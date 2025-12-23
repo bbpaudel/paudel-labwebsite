@@ -1,5 +1,101 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.jbc.2025.111062
+  title: Age-dependent topoisomerase I depletion alters recruitment of rDNA silencing
+    complexes
+  authors:
+  - Lindsey N. Power
+  - Natalia Zawrotna
+  - Manikarna Dinda
+  - Abigail E. Weir
+  - B.Bishal Paudel
+  - Oshil Ghimire
+  - Karolina Kisiel
+  - Christopher T. Letai
+  - Kevin A. Janes
+  - Jeffrey S. Smith
+  publisher: Journal of Biological Chemistry
+  date: '2025-12-01'
+  link: https://doi.org/hbgrkv
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bneo.2025.100186
+  title: The LMO2-LDB1-TAL1 complex regulates transcription networks in Acute Myeloid
+    Leukemia
+  authors:
+  - Nicholas Dunham
+  - Zhenjia Wang
+  - Yaseswini Neelamraju
+  - Yan Guo
+  - B. Bishal Paudel
+  - Cem Meydan
+  - Jorge A Gandara
+  - Fady Abdelmalak
+  - Hao Fan
+  - Joyce Hardwick
+  - Justin H. Layer
+  - Tak Lee
+  - Bernhard Maier
+  - W. Hayes McDonald
+  - Isaani Patnaik
+  - Subhash Prajapati
+  - Franck Rapaport
+  - Caroline Sheridan
+  - Gloria Sheynkman
+  - Paul Zumbo
+  - Michael W. Becker
+  - Lars Bullinger
+  - Martin P Carroll
+  - Richard J D'Andrea
+  - Richard Dillon
+  - Ross L Levine
+  - Christopher E. Mason
+  - Ari M Melnick
+  - Donna S. Neuberg
+  - Stefan Bekiranov
+  - Chongzhi Zang
+  - "Utpal P. Dav\xE9"
+  - Francine E. Garrett-Bakelman
+  publisher: Blood Neoplasia
+  date: '2025-11-01'
+  link: https://doi.org/hbgrkw
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.06.657881
+  title: Acid ceramidase inhibition enhances BCL-2 targeting in venetoclax-resistant
+    acute myeloid leukemia via a cytotoxic integrated stress response
+  authors:
+  - Johnson Ung
+  - Su-Fern Tan
+  - Jeremy J.P. Shaw
+  - Maansi Taori
+  - Tess M. Deddens
+  - Giovana da Costa Venancio
+  - McLane M. Montgomery
+  - James T. Hagen
+  - Raphael T. Aruleba
+  - Upendar R. Golla
+  - Arati Sharma
+  - B. Bishal Paudel
+  - Irene Sung-Ah Lee
+  - Bhavishya Ramamoorthy
+  - Kevin A. Janes
+  - Francine Garrett-Bakelman
+  - Myles C. Cabot
+  - Kelsey H. Fisher-Wellman
+  - Todd E. Fox
+  - David F. Claxton
+  - Charles E. Chalfant
+  - David J. Feith
+  - Thomas P. Loughran
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-07'
+  link: https://doi.org/hbgrkx
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s44320-024-00064-3
   title: Proteome-wide copy-number estimation from transcriptomics
   authors:

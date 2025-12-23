@@ -5,4 +5,4 @@ author: john-doe
 tags: biology, medicine
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research paper published in Blood Advances is highlighted in UVA News. https://news.med.virginia.edu/research/uva-researchers-blood-cancer-discovery-identifies-high-risk-patients-could-improve-outcomes/

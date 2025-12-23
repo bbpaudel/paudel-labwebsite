@@ -1,4 +1,3 @@
-
 ---
 name: Undergrad
 image: images/photo.jpg

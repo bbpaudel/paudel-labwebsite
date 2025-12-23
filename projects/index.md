@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 Our lab uses systems biology to understand how dysfunctional signaling states drive cancer heterogeneity and therapeutic response. By integrating multi-omics data with computational and experimental models, we identify mechanisms and vulnerabilities that enable precision cancer treatment. Current projects include: 
-1. Defining metabolic heterogeneity in tumors
+1. Defining mechanistic basis for metabolic heterogeneity in tumors
 2. Identifying therapeutic vulnerabilities and risk-classification
 3. Determining links between altered epigenome and tumorigenesis
 

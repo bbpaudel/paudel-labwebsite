@@ -1,7 +1,16 @@
-
+- title: Role of sphingolipid metabolism in AML
+  subtitle: Dysfunctional sphingolipid metabolism and AML prognosis
+  group: featured
+  image: images/Paudel_R1.png
+  link: 
+  description: 
+  repo:
+  tags:
+    - project
+    - resource
+    
 - title: CRISPR Summary & Visualization
   subtitle: A simple web-tool to visualize and summarize genome-wide CRISPR data
-  group: featured
   image: images/photo.jpg
   link: https://paudelbbapps.shinyapps.io/shinyApp_v2/
   description: This tool will allow you to visualize your CRISPR screen data once you have the count table and gene summary table obtained by Mageck.

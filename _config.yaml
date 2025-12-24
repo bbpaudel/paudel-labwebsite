@@ -9,11 +9,10 @@ proofer: false
 # site social media and other links
 links:
   email: bp5sq@virginia.edu
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-5426-7048
   google-scholar: https://scholar.google.com/citations?user=r4ZcgmAAAAAJ&hl=en
   github: bbpaudel
   twitter: https://x.com/paudelbb
-  youtube: bbpaudel
 
 ### jekyll settings
 

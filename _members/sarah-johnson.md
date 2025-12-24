@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: Graduate Student
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Graduate program
+role: student
 group: trainee
 links:
   email: sarah.johnson@gmail.com

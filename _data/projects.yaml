@@ -8,6 +8,17 @@
   tags:
     - project
     - resource
+
+- title: Altered transport, epigenome and tumorigenesis in breast cancer
+  subtitle: Mislocalized regulators and tumorigenesis
+  group: featured
+  image: images/Paudel_R2.png
+  link: 
+  description: 
+  repo:
+  tags:
+    - project
+    - resource
     
 - title: CRISPR Summary & Visualization
   subtitle: A simple web-tool to visualize and summarize genome-wide CRISPR data

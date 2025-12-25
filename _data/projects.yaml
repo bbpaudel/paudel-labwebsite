@@ -22,7 +22,7 @@
     
 - title: CRISPR Summary & Visualization
   subtitle: A simple web-tool to visualize and summarize genome-wide CRISPR data
-  image: images/CRISPR.jpg
+  image: images/CRISPR.png
   link: https://paudelbbapps.shinyapps.io/shinyApp_v2/
   description: This tool will allow you to visualize your CRISPR screen data once you have the count table and gene summary table obtained by Mageck.
   repo:
@@ -33,7 +33,7 @@
 - title: HexSM Predictor
   subtitle: Predict HexSM lipid subtypes from gene expression data (Paudel et al. Blood Adv, 2024)
   group: featured
-  image: images/PredSM.jpg
+  image: images/PredSM.png
   link: https://paudelbbapps.shinyapps.io/PredSM/
   description: SVM classifier to predict HexSM lipid subtype using normalized gene expression data
   repo: 

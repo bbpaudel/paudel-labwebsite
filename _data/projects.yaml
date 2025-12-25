@@ -32,7 +32,6 @@
   
 - title: HexSM Predictor
   subtitle: Predict HexSM lipid subtypes from gene expression data (Paudel et al. Blood Adv, 2024)
-  group: featured
   image: images/PredSM.png
   link: https://paudelbbapps.shinyapps.io/PredSM/
   description: SVM classifier to predict HexSM lipid subtype using normalized gene expression data

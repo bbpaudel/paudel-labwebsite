@@ -11,3 +11,14 @@
     - AML
     - metabolism
     - risk classification
+
+- id: doi:10.1016/j.jbc.2025.111062
+  type: paper
+  description: >
+    We developed an automated image analytical pipeline to process replicative budding events from Microfluidic microscopic images. The pipeline Microfluidic (Micro) Budding Replicative Events Workflow (BREW)--MicroBREW automatically detects and process high-throughput images and results in easy-to-summarize results.
+  buttons: 
+    -type: paper 
+  tags: 
+    - tool 
+    - yeast 
+    - pipeline

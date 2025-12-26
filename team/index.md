@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are systems biology group with team members coming from diverse academic backgrounds. Our research team employs complementary experimental and computational approaches to establish a systems biology framework linking altered biochemical states with metabolic adaptation, therapeutics, and tumorigenesis.
+We are a systems biology group with team members coming from diverse academic backgrounds. Our research team employs complementary experimental and computational approaches to establish a systems biology framework linking altered biochemical states with metabolic adaptation, therapeutics, and tumorigenesis.
 .
 
 {% include section.html %}
@@ -23,7 +23,6 @@ We are always interested in working with motivated individuals with interests in
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 

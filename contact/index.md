@@ -26,9 +26,9 @@ Prospective students and postdoctoral fellows are also encouraged to contact us 
 %}
 {%
   include button.html
-  type="345 Crispell Drive, Charlottesville, VA, 22908"
+  type="address"
   tooltip="View our location on Google Maps"
-  link="https://www.google.com/maps/place/University+of+Virginia"
+  link="https://www.google.com/maps/place/345+Crispell+Dr,+Charlottesville,+VA+22908/@38.0311115,-78.5013875,17z/data=!3m1!4b1!4m6!3m5!1s0x89b3864742555555:0x957df2f1854b82c0!8m2!3d38.0311115!4d-78.4988126!16s%2Fg%2F11nnktfqmx?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}

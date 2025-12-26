@@ -1,7 +1,7 @@
 ---
 name: Postdoctoral Fellow
 image: images/photo.jpg
-role: phd
+role:
 group: alum
 ---
 

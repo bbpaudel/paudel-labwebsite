@@ -19,6 +19,7 @@
   tags:
     - project
     - resource
+    - tool
     
 - title: CRISPR Summary & Visualization
   subtitle: A simple web-tool to visualize and summarize genome-wide CRISPR data

@@ -15,8 +15,8 @@ Prospective students and postdoctoral fellows are also encouraged to contact us 
 {%
   include button.html
   type="email"
-  text="bp5sq@virginia.edu"
-  link="bp5sq@virginia.edu"
+  text="paudellab@gmail.com"
+  link="paudellab@gmail.com"
 %}
 {%
   include button.html
@@ -26,7 +26,7 @@ Prospective students and postdoctoral fellows are also encouraged to contact us 
 %}
 {%
   include button.html
-  type="address"
+  type="345 Crispell Drive, Charlottesville, VA, 22908"
   tooltip="View our location on Google Maps"
   link="https://www.google.com/maps/place/University+of+Virginia"
 %}

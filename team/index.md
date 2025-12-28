@@ -29,6 +29,8 @@ We are grateful to the many students, trainees, and researchers who have contrib
 
 {% endcapture %}
 
+{% include grid.html style="square" content=content %}
+
 {% include section.html %}
 
 ## Collaborators
@@ -36,7 +38,3 @@ We are grateful to the many students, trainees, and researchers who have contrib
 We work closely with collaborators across disciplines including systems biology, metabolism, computation, and clinical research.
 
 {% include list.html data="collaborators" component="portrait" %}
-
-{% include section.html %}
-
-{% include grid.html style="square" content=content %}

@@ -1,5 +1,5 @@
 ---
-title: P3 Systems Biology Lab
+title: P<sup>3</sup> Systems Biology Lab
 ---
 
 {% capture text %}
@@ -12,7 +12,7 @@ The long-term objective of our research program is to gain a predictive understa
 {%
   include feature.html
   image="images/Logo_Paudel.png"
-  title: P<sup>3</sup> Systems Biology Lab
+  title="P<sup>3</sup> Systems Biology Lab"
   text=text
 %}
 

@@ -1,20 +1,18 @@
 ---
-title: P<sup>3</sup> Systems Biology Lab
+title: P3 Systems Biology Lab
+display_title: P<sup>3</sup> Systems Biology Lab
 ---
 
 {% capture text %}
 
-Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer Center.  
-We develop **data-driven and systems biology approaches** to understand cancer metabolism, drug response, and cellular heterogeneity by integrating multi-omics data, computational modeling, and experimental measurements.
-
-The long-term objective of our research program is to gain a predictive understanding of how dysregulated signaling (altered metabolism, transport, etc.) gives rise to emergent cancer phenotypes and their associated vulnerabilities.
+Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer Center. We develop **data-driven and systems biology approaches** to understand cancer metabolism, drug response, and cellular heterogeneity by integrating multi-omics data, computational modeling, and experimental measurements. The long-term objective of our research program is to gain a predictive understanding of how dysregulated signaling (altered metabolism, transport, etc.) gives rise to emergent cancer phenotypes and their associated vulnerabilities.
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/Logo_Paudel.png"
-  title="P<sup>3</sup> Systems Biology Lab"
+  title=page.display_title
   text=text
 %}
 

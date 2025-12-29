@@ -1,20 +1,24 @@
 - name: Francine Garrett-Bakelman, MD, PhD
   title: Assistant Professor, Biochemistry and Molecular Genetics
   affiliation: University of Virginia
-  url: https://med.virginia.edu/faculty/faculty-listing/fg5q/
+  links:
+    https://med.virginia.edu/faculty/faculty-listing/fg5q/
 
 - name: Jeffrey Smith, PhD
   title: Professor, Biochemistry and Molecular Genetics
   affiliation: University of Virginia
-  url: https://med.virginia.edu/faculty/faculty-listing/jss5y/
+  links: 
+    https://med.virginia.edu/faculty/faculty-listing/jss5y/
 
 - name: Charles E. Chalfant, PhD
   title: Professor of Medicine, Division of Hematology & Oncology, Cell Biology
   affiliation: University of Virginia
-  url: https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/
+  links: 
+    https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/
 
 - name: Kelsey Howard Fisher-Wellman, PhD
   title: Associate Professor, Cancer Biology (Winston-Salem)
   affiliation: Wake Forest University
-  url: https://www.fisherwellmanlab.com/
+  links: 
+    https://www.fisherwellmanlab.com/
 

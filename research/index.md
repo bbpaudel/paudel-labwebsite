@@ -1,6 +1,6 @@
 ---
 title: Research & Publications
-nav:
+nav: Research & Publications
   order: 1
   tooltip: Published works
 highlighted:

@@ -1,6 +1,6 @@
 ---
 title: News & Updates
-nav:
+nav: News & Updates
   order: 4
   tooltip: Musings and miscellany
 ---

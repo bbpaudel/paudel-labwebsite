@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: News & Updates
 nav:
   order: 4
   tooltip: Musings and miscellany

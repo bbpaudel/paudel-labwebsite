@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: P3 Systems Biology Lab
 subtitle: Predict, Perturb, & Profile Biological Systems
-header: images/Logo.vsg
-footer: images/Logo.svg
+header: images/Theme_Lab.png
+footer: images/Theme_Lab.png
 
 proofer: false
 

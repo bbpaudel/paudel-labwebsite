@@ -5,8 +5,8 @@ description: Graduate program
 role: student
 group: trainee
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: 
+  twitter: 
 ---
 
 This could be you!

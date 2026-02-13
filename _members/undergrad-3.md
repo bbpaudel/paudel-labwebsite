@@ -1,4 +1,3 @@
-
 ---
 name: Oshil Ghimire
 image: images/photo.jpg

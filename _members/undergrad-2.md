@@ -1,7 +1,8 @@
 ---
 name: Vicente Carvajal Villegas
 image: images/photo.jpg
-role: Undergraduate
+role: undergrad
+affiliation: University of Virginia
 group: trainee
 links:
   email: shb5xx@virginia.edu

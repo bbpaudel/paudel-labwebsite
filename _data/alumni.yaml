@@ -1,0 +1,11 @@
+- name: Deepika Sahoo
+  role: undergrad
+  years: 2023-2025
+  current_position: MD Student, University of Virginia
+  image: images/alumni/jane_doe.jpg
+
+- name: Karolina Kisiel
+  role: Summer REU
+  years: 2023
+  current_position: Physician Assistant Program, Midwestern University, Downers Grove, IL, 60515
+  image: images/alumni/john_smith.jpg

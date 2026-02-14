@@ -18,6 +18,14 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+technician:
+  icon: fa-solid fa-user-graduate
+  description: Research Technician
+
+scientist:
+  icon: fa-solid fa-user-graduate
+  description: Research Scientist
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

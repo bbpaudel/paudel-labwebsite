@@ -1,7 +1,8 @@
 ---
 name: Van Beckett Lisle
 image: images/photo.jpg
-role: Undergraduate
+role: undergrad
+affiliations: University of Virginia
 group: trainee
 links:
   email: utn2cp@virginia.edu

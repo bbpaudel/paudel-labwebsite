@@ -22,14 +22,7 @@ We are a systems biology group with team members coming from diverse academic ba
 
 We are grateful to the many students, trainees, and researchers who have contributed to our work and have gone on to pursue diverse career paths.
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include list.html data="alumni" component="portrait" %}
 
 {% include section.html %}
 

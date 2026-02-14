@@ -30,6 +30,10 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
+summerREU:
+  icon: fa-solid fa-code
+  description: Summer REU Student
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot

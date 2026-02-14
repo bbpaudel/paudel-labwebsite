@@ -1,7 +1,8 @@
 ---
 name: Oshil Ghimire
 image: images/photo.jpg
-role: Undergraduate with Dr. Jeff Smith
+role: undergrad 
+affiliation: University of Virginia (co-mentored with Dr. Jeff Smith)
 group: trainee
 links:
   email: yyc2wf@virginia.edu

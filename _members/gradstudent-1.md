@@ -2,7 +2,7 @@
 name: Graduate Student
 image: images/photo.jpg
 description: Graduate program
-role: student
+role: phd
 group: trainee
 links:
   email: 

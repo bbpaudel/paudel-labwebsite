@@ -5,7 +5,14 @@
   image: images/alumni/jane_doe.jpg
 
 - name: Karolina Kisiel
-  role: Summer REU
+  role: summerREU
   years: 2023
   current_position: Physician Assistant Program, Midwestern University, Downers Grove, IL, 60515
   image: images/alumni/john_smith.jpg
+
+- name: Sepideh Abdi
+  role: technician
+  years: 2025
+  current_position: 
+  image: images/alumni/john_smith.jpg
+

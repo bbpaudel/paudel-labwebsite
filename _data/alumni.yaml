@@ -2,17 +2,17 @@
   role: undergrad
   years: 2023-2025
   affiliation: University of Virginia School of Medicine (MD Program)
-  image: images/alumni/jane_doe.jpg
+  image: images/jane_doe.jpg
 
 - name: Karolina Kisiel
   role: summerREU
   years: 2023
   affiliation: Midwestern University (Physician Assistant Program), Downers Grove, IL, 60515
-  image: images/alumni/john_smith.jpg
+  image: images/john_smith.jpg
 
 - name: Sepideh Abdi
   role: technician
   years: 2025
   current_position: 
-  image: images/alumni/Abdi_Sepi.jpeg
+  image: images/Abdi_Sepi.jpeg
 

@@ -1,38 +1,24 @@
-<h2>Collaborators</h2>
+- name: Francine Garrett-Bakelman, MD, PhD
+  title: Assistant Professor, Biochemistry and Molecular Genetics
+  affiliation: University of Virginia
+  website: https://med.virginia.edu/faculty/faculty-listing/fg5q/
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Title</th>
-      <th>Affiliation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://med.virginia.edu/faculty/faculty-listing/fg5q/" target="_blank">Francine Garrett-Bakelman, MD, PhD</a></td>
-      <td>Assistant Professor, Biochemistry and Molecular Genetics</td>
-      <td>University of Virginia</td>
-    </tr>
-    <tr>
-      <td><a href="https://med.virginia.edu/faculty/faculty-listing/jss5y/" target="_blank">Jeffrey Smith, PhD</a></td>
-      <td>Professor, Biochemistry and Molecular Genetics</td>
-      <td>University of Virginia</td>
-    </tr>
-    <tr>
-      <td><a href="https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/" target="_blank">Charles E. Chalfant, PhD</a></td>
-      <td>Professor of Medicine, Hematology & Oncology</td>
-      <td>University of Virginia</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.fisherwellmanlab.com/" target="_blank">Kelsey Fisher-Wellman, PhD</a></td>
-      <td>Associate Professor, Cancer Biology</td>
-      <td>Wake Forest University</td>
-    </tr>
-    <tr>
-      <td><a href="https://med.virginia.edu/faculty/faculty-listing/tef3b/" target="_blank">Todd Fox, PhD</a></td>
-      <td>Associate Professor, Pharmacology & Ophthalmology</td>
-      <td>University of Virginia</td>
-    </tr>
-  </tbody>
-</table>
+- name: Jeffrey Smith, PhD
+  title: Professor, Biochemistry and Molecular Genetics
+  affiliation: University of Virginia
+  website: https://med.virginia.edu/faculty/faculty-listing/jss5y/
+
+- name: Charles E. Chalfant, PhD
+  title: Professor of Medicine, Hematology & Oncology
+  affiliation: University of Virginia
+  website: https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/
+
+- name: Kelsey Fisher-Wellman, PhD
+  title: Associate Professor, Cancer Biology
+  affiliation: Wake Forest University
+  website: https://www.fisherwellmanlab.com/
+
+- name: Todd Fox, PhD
+  title: Associate Professor, Pharmacology & Ophthalmology
+  affiliation: University of Virginia
+  website: https://med.virginia.edu/faculty/faculty-listing/tef3b/

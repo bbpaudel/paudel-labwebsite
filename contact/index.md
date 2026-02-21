@@ -37,12 +37,11 @@ Prospective students and postdoctoral fellows are also encouraged to contact us 
 
 ### Mailing Address
 
-**P3 (Predict, Perturb & Profile) Systems Biology Lab** 
+**P3 (Predict, Perturb & Profile) Systems Biology Lab**  
 Department of Medicine and Biomedical Engineering  
-University of Virginia
-Carter Harrison Research Building (MR-6)- 617(A-B)
-345 Crispell Drive
-Charlottesville, VA, USA, 22908
+University of Virginia  
+Carter Harrison Research Building (MR-6)- 617(A-B)  
+345 Crispell Drive, Charlottesville, VA, USA, 22908  
 
 {% endcapture %}
 

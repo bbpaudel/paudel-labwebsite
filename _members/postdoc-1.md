@@ -1,6 +1,6 @@
 ---
 name: Postdoctoral Fellow
-image: images/photo.jpg
+image: images/postdoc.jpg
 description: This could be you!
 role: postdoc
 group: alum

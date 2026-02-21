@@ -1,6 +1,6 @@
 {% if include.lookup %}
-  {% assign member = site.members 
-    | where_exp: "member", "member.slug == include.lookup"
+  {% assign member = site.members
+    | where_exp: "m", "m.slug == include.lookup"
     | first
   %}
 {% else %}
@@ -11,28 +11,31 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if page.slug != member.slug %}
-      href="{% if member.website %}{{ member.website }}{% else %}{{ member.url | relative_url | uri_escape }}{% endif %}"
-      {% if member.website %}
-        target="_blank"
-        rel="noopener"
-      {% endif %}
+    {% if member.website %}
+      href="{{ member.website }}"
+      target="_blank"
+      rel="noopener"
+    {% elsif member.url and page.slug != member.slug %}
+      href="{{ member.url | relative_url | uri_escape }}"
     {% endif %}
     class="portrait"
     data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" | regex_strip }}"
+    aria-label="{{ member.name | default: 'member link' | strip_html }}"
   >
+
     {% if type %}
       {% include icon.html icon=type.icon %}
     {% endif %}
 
-    <img
-      src="{{ member.image | relative_url | uri_escape }}"
-      class="portrait-image"
-      alt="member portrait"
-      loading="lazy"
-      {% include fallback.html %}
-    >
+    {% if member.image %}
+      <img
+        src="{{ member.image | relative_url | uri_escape }}"
+        class="portrait-image"
+        alt="{{ member.name }}"
+        loading="lazy"
+        {% include fallback.html %}
+      >
+    {% endif %}
 
     {% if member.name %}
       <span class="portrait-name">
@@ -51,5 +54,6 @@
         {{ member.affiliation }}
       </span>
     {% endif %}
+
   </a>
 </div>

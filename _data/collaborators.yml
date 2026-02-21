@@ -1,9 +1,38 @@
-## Collaborators
+<h2>Collaborators</h2>
 
-| Name | Title | Affiliation |
-| :--- | :--- | :--- |
-| [Francine Garrett-Bakelman, MD, PhD](https://med.virginia.edu/faculty/faculty-listing/fg5q/) | Assistant Professor, Biochemistry and Molecular Genetics | University of Virginia |
-| [Jeffrey Smith, PhD](https://med.virginia.edu/faculty/faculty-listing/jss5y/) | Professor, Biochemistry and Molecular Genetics | University of Virginia |
-| [Charles E. Chalfant, PhD](https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/) | Professor of Medicine, Hematology & Oncology | University of Virginia |
-| [Kelsey Fisher-Wellman, PhD](https://www.fisherwellmanlab.com/) | Associate Professor, Cancer Biology | Wake Forest University |
-| [Todd Fox, PhD](https://med.virginia.edu/faculty/faculty-listing/tef3b/) | Associate Professor, Pharmacology & Ophthalmology | University of Virginia |
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://med.virginia.edu/faculty/faculty-listing/fg5q/" target="_blank">Francine Garrett-Bakelman, MD, PhD</a></td>
+      <td>Assistant Professor, Biochemistry and Molecular Genetics</td>
+      <td>University of Virginia</td>
+    </tr>
+    <tr>
+      <td><a href="https://med.virginia.edu/faculty/faculty-listing/jss5y/" target="_blank">Jeffrey Smith, PhD</a></td>
+      <td>Professor, Biochemistry and Molecular Genetics</td>
+      <td>University of Virginia</td>
+    </tr>
+    <tr>
+      <td><a href="https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/" target="_blank">Charles E. Chalfant, PhD</a></td>
+      <td>Professor of Medicine, Hematology & Oncology</td>
+      <td>University of Virginia</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.fisherwellmanlab.com/" target="_blank">Kelsey Fisher-Wellman, PhD</a></td>
+      <td>Associate Professor, Cancer Biology</td>
+      <td>Wake Forest University</td>
+    </tr>
+    <tr>
+      <td><a href="https://med.virginia.edu/faculty/faculty-listing/tef3b/" target="_blank">Todd Fox, PhD</a></td>
+      <td>Associate Professor, Pharmacology & Ophthalmology</td>
+      <td>University of Virginia</td>
+    </tr>
+  </tbody>
+</table>

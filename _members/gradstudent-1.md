@@ -1,6 +1,6 @@
 ---
 name: Graduate Student
-image: images/photo.jpg
+image: images/gradstudent.jpg
 description: This could be you!
 role: phd
 group: trainee

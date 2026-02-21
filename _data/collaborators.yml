@@ -1,29 +1,29 @@
 - name: Francine Garrett-Bakelman, MD, PhD  
-  image: images/photo.jpg
+  image: images/fran.jpg
   description: Assistant Professor, Biochemistry and Molecular Genetics  
   affiliation: University of Virginia  
   website: https://med.virginia.edu/faculty/faculty-listing/fg5q/  
 
 - name: Jeffrey Smith, PhD  
-  image: images/photo.jpg  
+  image: images/jsmith.jpg  
   description: Professor, Biochemistry and Molecular Genetics  
   affiliation: University of Virginia  
   website: https://med.virginia.edu/faculty/faculty-listing/jss5y/  
 
 - name: Charles E. Chalfant, PhD  
-  image: images/photo.jpg  
+  image: images/chalfant.jpg  
   description: Professor of Medicine, Hematology & Oncology  
   affiliation: University of Virginia  
   website: https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/  
 
 - name: Kelsey Fisher-Wellman, PhD  
-  image: images/photo.jpg  
+  image: images/kelsey.jpg  
   description: Associate Professor, Cancer Biology  
   affiliation: Wake Forest University  
   website: https://www.fisherwellmanlab.com/  
 
 - name: Todd Fox, PhD  
-  image: images/photo.jpg  
+  image: images/fox.jpg  
   description: Associate Professor, Pharmacology & Ophthalmology  
   affiliation: University of Virginia  
   website: https://med.virginia.edu/faculty/faculty-listing/tef3b/  

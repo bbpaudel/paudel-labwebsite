@@ -8,4 +8,4 @@ We presented a flask talk in Cancer Research and Data Science Symposium at the U
 
 ---
 
-![Presentation]({{ '/images/P3lab_data_science.jpeg' | relative_url }})
+![Presentation]({{ '/images/P3lab_data_science.jpg' | relative_url }})

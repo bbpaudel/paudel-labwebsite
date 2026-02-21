@@ -1,25 +1,9 @@
-- name: [Francine Garrett-Bakelman, MD, PhD](https://med.virginia.edu/faculty/faculty-listing/fg5q/)
-  title: Assistant Professor, Biochemistry and Molecular Genetics
-  affiliation: University of Virginia
-  website: 
+## Collaborators
 
-- name: Jeffrey Smith, PhD
-  title: Professor, Biochemistry and Molecular Genetics
-  affiliation: University of Virginia
-  website: https://med.virginia.edu/faculty/faculty-listing/jss5y/
-
-- name: Charles E. Chalfant, PhD
-  title: Professor of Medicine, Division of Hematology & Oncology, Cell Biology
-  affiliation: University of Virginia
-  website: https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/
-
-- name: Kelsey Fisher-Wellman, PhD
-  title: Associate Professor, Cancer Biology (Winston-Salem)
-  affiliation: Wake Forest University
-  website: https://www.fisherwellmanlab.com/
-
-- name: Todd Fox, PhD
-  title: Associate Professor of Pharmacology and Ophthalmology
-  affiliation: University of Virginia
-  website: https://med.virginia.edu/faculty/faculty-listing/tef3b/
-
+| Name | Title | Affiliation |
+| :--- | :--- | :--- |
+| [Francine Garrett-Bakelman, MD, PhD](https://med.virginia.edu/faculty/faculty-listing/fg5q/) | Assistant Professor, Biochemistry and Molecular Genetics | University of Virginia |
+| [Jeffrey Smith, PhD](https://med.virginia.edu/faculty/faculty-listing/jss5y/) | Professor, Biochemistry and Molecular Genetics | University of Virginia |
+| [Charles E. Chalfant, PhD](https://med.virginia.edu/hematology-oncology/charles-e-chalfant-phd/) | Professor of Medicine, Hematology & Oncology | University of Virginia |
+| [Kelsey Fisher-Wellman, PhD](https://www.fisherwellmanlab.com/) | Associate Professor, Cancer Biology | Wake Forest University |
+| [Todd Fox, PhD](https://med.virginia.edu/faculty/faculty-listing/tef3b/) | Associate Professor, Pharmacology & Ophthalmology | University of Virginia |

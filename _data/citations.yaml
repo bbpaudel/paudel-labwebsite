@@ -28,7 +28,7 @@
 
     '
   buttons:
-  - type: paper
+    -type: paper
   tags:
   - tool
   - yeast

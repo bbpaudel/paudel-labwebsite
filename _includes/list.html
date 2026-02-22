@@ -1,29 +1,28 @@
 {% assign emptyarray = "" | split: "," %}
-{% assign data = site.data[include.data]
+{% assign data_source = site.data[include.data]
   | default: site[include.data]
   | default: emptyarray
   | data_filter: include.filter
 %}
 
-{% assign years = data
+{% assign years = data_source
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
   | reverse
 %}
 
 {% for year in years %}
-  {% assign data = year.items %}
+  {% assign year_items = year.items %}
 
   {% if years.size > 1 %}
     <h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
+    {% assign year_items = year_items | sort: "date" | reverse %}
   {% endif %}
 
-  {% for d in data %}
+  {% for d in year_items %}
     {% assign style = d.style | default: include.style %}
 
-    {%
-      include {{ include.component | append: ".html" }}
+    {% include {{ include.component | append: ".html" }}
       affiliation=d.affiliation
       author=d.author
       authors=d.authors

@@ -1,11 +1,12 @@
 ---
+layout: default
 title: Blog
 nav: 
   order: 4
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %} Blog
 
 In this page, we share updates from the lab, including news, presentations, publications, conferences, and other recent highlights.
 

@@ -27,4 +27,6 @@ Our research uses a systems bioengineering approach to investigate how aberrant 
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+<div markdown="0">
+  {% include list.html data="citations" component="citation" style="rich" %}
+</div>

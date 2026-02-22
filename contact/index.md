@@ -3,8 +3,6 @@ title: Contact
 nav:
   order: 5
   tooltip: Email, address, and location
-header: images/P3_Theme.jpg
-header-dark: true
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact

@@ -4,13 +4,27 @@
     Biochemical and metabolic profiling integrated with current AML risk classifiers
     identifies distinct molecular subtypes with differential drug sensitivities.
   date: 2024-03-01
-  image: https://ashpublications.org/view-large/figure/12166862/BLOODA_ADV-2023-010535-gr2.jpg
+  image: images/bloodadv.jpg
   buttons:
     - type: paper
   tags:
     - AML
     - metabolism
     - risk classification
+  
+- id: doi:10.1038/s41467-023-37914-x
+  type: paper
+  description: >
+    Oncogeneic receptor activation reconfigures nucleocytoplasmic transport leading to mislocalization of key regulators and early onset of tumorigenesis in breast epithelia.
+  date: 2023-04-13
+  image: images/natcom.jpg
+  buttons:
+    - type: paper
+  tags:
+    - Breast cancer
+    - systems biology
+    - nucleocytoplasmic transport
+    - tumorigenesis
 
 - id: doi:10.1016/j.jbc.2025.111062
   type: paper

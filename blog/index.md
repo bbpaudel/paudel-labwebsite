@@ -17,4 +17,6 @@ In this page, we share updates from the lab, including news, presentations, publ
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+<div markdown="0">
+  {% include list.html data="posts" component="post-excerpt" %}
+</div>

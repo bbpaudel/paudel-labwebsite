@@ -5,6 +5,7 @@ nav:
   tooltip: Published works
 highlighted:
   - doi:10.1182/bloodadvances.2023010535
+  - doi:10.1038/s41467-023-37914-x
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research

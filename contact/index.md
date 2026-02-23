@@ -49,9 +49,11 @@ Carter Harrison Research Building (MR-6)- 617(A-B)
 
 We are interested in collaborations related to:
 - Systems biology and network modeling  
-- Cancer metabolism and AML  
+- Cancer metabolism and heterogeneity  
 - Multi-omics data integration  
-- Translational and computational approaches  
+- Translational and computational approaches
+- Health disparities
+- Tool development
 
 Please include relevant background or project ideas when reaching out.
 

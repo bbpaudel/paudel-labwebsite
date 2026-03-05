@@ -38,7 +38,7 @@ Prospective students and postdoctoral fellows are also encouraged to contact us 
 **P3 (Predict, Perturb & Profile) Systems Biology Lab**  
 Department of Medicine and Biomedical Engineering  
 University of Virginia  
-Carter Harrison Research Building (MR-6)- 617(A-B)  
+Carter Harrison Research Building (MR-6)- 716(A-B)  
 345 Crispell Drive, Charlottesville, VA, USA, 22908  
 
 {% endcapture %}

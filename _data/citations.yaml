@@ -1,6 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.jbc.2025.111062
+- id: doi:10.1038/s41375-026-02954-x
+  title: Elevated levels of TNF and its targets characterize better-risk older acute
+    myeloid leukemia patients
+  authors:
+  - Yaseswini Neelamraju
+  - Franck Rapaport
+  - Jorge A. Gandara
+  - B. Bishal Paudel
+  - Susan DeWolf
+  - Nicholas Dunham
+  - Hao Fan
+  - Tak Lee
+  - Marty W. Mayo
+  - Jad Othman
+  - Caroline Sheridan
+  - Katia Sol-Church
+  - Michael Dimitri Solga
+  - Ling Wang
+  - Larry D. Cripe
+  - Richard Dillon
+  - Maria Kleppe
+  - Martin Carroll
+  - Christopher E. Mason
+  - Gail J. Roboz
+  - Zhuoxin Sun
+  - Martin S. Tallman
+  - Yanming Zhang
+  - Elisabeth Paietta
+  - Ross Levine
+  - Ari M. Melnick
+  - Stefan Bekiranov
+  - Francine E. Garrett-Bakelman
+  publisher: Leukemia
+  date: '2026-04-13'
+  link: https://doi.org/hbxpwp
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JBC.2025.111062
   title: Age-dependent topoisomerase I depletion alters recruitment of rDNA silencing
     complexes
   authors:
@@ -8,34 +46,55 @@
   - Natalia Zawrotna
   - Manikarna Dinda
   - Abigail E. Weir
-  - B.Bishal Paudel
+  - B. Bishal Paudel
   - Oshil Ghimire
   - Karolina Kisiel
   - Christopher T. Letai
   - Kevin A. Janes
   - Jeffrey S. Smith
   publisher: Journal of Biological Chemistry
-  date: '2025-12-01'
+  date: '2026-02-01'
   link: https://doi.org/hbgrkv
   orcid: 0000-0002-5426-7048
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: 'We developed an automated image analytical pipeline to process replicative
-    budding events from Microfluidic microscopic images. The pipeline Microfluidic
-    (Micro) Budding Replicative Events Workflow (BREW)--MicroBREW automatically detects
-    and process high-throughput images and results in easy-to-summarize results.
-
-    '
-  buttons:
-    -type: paper
-  tags:
-  - tool
-  - yeast
-  - pipeline
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEO.2026.101293
+  title: "CCAAT\u2010enhancer binding protein delta functions as a tumor suppressor\
+    \ gene in acute myeloid leukemia"
+  authors:
+  - Subhash C. Prajapati
+  - Cem Meydan
+  - Yaseswini Neelamraju
+  - Zhenjia Wang
+  - Grant Atwood
+  - B. Bishal Paudel
+  - Hao Fan
+  - Nicholas Dunham
+  - Richard Dillon
+  - Jorge A Gandara
+  - Tak Lee
+  - Caroline Sheridan
+  - Shengyuan Wang
+  - Paul Zumbo
+  - Michael W. Becker
+  - Lars Bullinger
+  - Martin P Carroll
+  - Richard J D'Andrea
+  - Ross L Levine
+  - Christopher E. Mason
+  - Ari M Melnick
+  - Chongzhi Zang
+  - Stefan Bekiranov
+  - Francine E. Garrett-Bakelman
+  publisher: Neoplasia
+  date: '2026-04-01'
+  link: https://doi.org/hbv4cn
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.bneo.2025.100186
-  title: The LMO2-LDB1-TAL1 complex regulates transcription networks in Acute Myeloid
-    Leukemia
+  title: The LMO2-LDB1-TAL1 complex regulates transcription networks in acute myeloid
+    leukemia
   authors:
   - Nicholas Dunham
   - Zhenjia Wang
@@ -43,8 +102,8 @@
   - Yan Guo
   - B. Bishal Paudel
   - Cem Meydan
-  - Jorge A Gandara
-  - Fady Abdelmalak
+  - Jorge A. Gandara
+  - Fady A Abdelmalak
   - Hao Fan
   - Joyce Hardwick
   - Justin H. Layer
@@ -59,20 +118,40 @@
   - Paul Zumbo
   - Michael W. Becker
   - Lars Bullinger
-  - Martin P Carroll
-  - Richard J D'Andrea
+  - Martin P. Carroll
+  - Richard J. D'Andrea
   - Richard Dillon
-  - Ross L Levine
+  - Ross L. Levine
   - Christopher E. Mason
-  - Ari M Melnick
+  - Ari M. Melnick
   - Donna S. Neuberg
   - Stefan Bekiranov
   - Chongzhi Zang
   - "Utpal P. Dav\xE9"
   - Francine E. Garrett-Bakelman
   publisher: Blood Neoplasia
-  date: '2025-11-01'
+  date: '2026-02-01'
   link: https://doi.org/hbgrkw
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.07.29.667507
+  title: Age-dependent topoisomerase I depletion alters recruitment of rDNA silencing
+    complexes
+  authors:
+  - Lindsey N. Power
+  - Natalia Zawrotna
+  - Manikarna Dinda
+  - Abigail E. Weir
+  - Bishal P. Paudel
+  - Oshil Ghimire
+  - Karolina Kisiel
+  - Christopher T. Letai
+  - Kevin A. Janes
+  - Jeffrey S. Smith
+  publisher: openRxiv
+  date: '2025-08-01'
+  link: https://doi.org/hbx8hk
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
@@ -103,29 +182,24 @@
   - Charles E. Chalfant
   - David J. Feith
   - Thomas P. Loughran
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-07'
   link: https://doi.org/hbgrkx
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s44320-024-00064-3
-  title: Proteome-wide copy-number estimation from transcriptomics
-  authors:
-  - Andrew J Sweatt
-  - Cameron D Griffiths
-  - Sarah M Groves
-  - B Bishal Paudel
-  - Lixin Wang
-  - David F Kashatus
-  - Kevin A Janes
-  publisher: Molecular Systems Biology
-  date: '2024-09-27'
-  link: https://doi.org/hbgjzt
+- id: doi:10.1182/BLOODADVANCES.2025016279
+  title: "Paudel BB, Tan S-F, Fox TE, et al. Acute myeloid leukemia stratifies as\
+    \ 2 clinically relevant sphingolipidomic subtypes.\n                    <i>Blood\
+    \ Adv</i>\n                    . 2024;8(5):1137-1142."
+  authors: []
+  publisher: Blood Advances
+  date: '2025-05-13'
+  link: https://doi.org/hbxpwq
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1182/bloodadvances.2023010535
+- id: doi:10.1182/BLOODADVANCES.2023010535
   title: Acute myeloid leukemia stratifies as 2 clinically relevant sphingolipidomic
     subtypes
   authors:
@@ -152,74 +226,60 @@
   - Kevin A. Janes
   - Thomas P. Loughran
   publisher: Blood Advances
-  date: '2024-03-01'
+  date: '2024-02-29'
   link: https://doi.org/hbgjzv
-  orcid: 0000-0002-5426-7048
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: 'Biochemical and metabolic profiling integrated with current AML risk
-    classifiers identifies distinct molecular subtypes with differential drug sensitivities.
-
-    '
-  image: images/bloodadv.jpg
-  buttons:
-  - type: paper
-  tags:
-  - AML
-  - metabolism
-  - risk classification
-- id: doi:10.1038/s41467-023-37914-x
-  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
-    the DCIS-like state
-  authors:
-  - Lixin Wang
-  - B. Bishal Paudel
-  - R. Anthony McKnight
-  - Kevin A. Janes
-  publisher: Nature Communications
-  date: '2023-04-13'
-  link: https://doi.org/hbgjzw
-  orcid: 0000-0002-5426-7048
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: 'Oncogeneic receptor activation reconfigures nucleocytoplasmic transport
-    leading to mislocalization of key regulators and early onset of tumorigenesis
-    in breast epithelia.
-
-    '
-  image: images/natcom.jpg
-  buttons:
-  - type: paper
-  tags:
-  - Breast cancer
-  - systems biology
-  - nucleocytoplasmic transport
-  - tumorigenesis
-- id: doi:10.1101/2022.02.03.479045
-  title: A heterogeneous drug tolerant persister state in BRAF-mutant melanoma is
-    characterized by ion channel dysregulation and susceptibility to ferroptosis
-  authors:
-  - Corey E. Hayford
-  - Philip E. Stauffer
-  - Blake Baleami
-  - B. Bishal Paudel
-  - Darren R. Tyson
-  - "Aziz Al\u2019Khafaji"
-  - Kaitlyn E. Johnson
-  - Leonard A. Harris
-  - Amy Brock
-  - Vito Quaranta
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-05'
-  link: https://doi.org/gsz4xq
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1158/0008-5472.can-19-3588
-  title: An Integrative Gene Expression and Mathematical Flux Balance Analysis Identifies
-    Targetable Redox Vulnerabilities in Melanoma Cells
+- id: doi:10.1038/S44320-024-00064-3
+  title: Proteome-wide copy-number estimation from transcriptomics
+  authors:
+  - Andrew J Sweatt
+  - Cameron D Griffiths
+  - Sarah M Groves
+  - B Bishal Paudel
+  - Lixin Wang
+  - David F Kashatus
+  - Kevin A Janes
+  publisher: Molecular Systems Biology
+  date: '2024-09-27'
+  link: https://doi.org/hbgjzt
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2024-4947
+  title: 'Abstract 4947: Uncovering the molecular basis for clinically relevant sphingolipidomic
+    subtypes in acute myeloid leukemia'
+  authors:
+  - B Bishal Paudel
+  - Su-Fern Tan
+  - Johnson Ung
+  - David Claxton
+  - David J. Feith
+  - Thomas P. Loughran
+  - Kevin A. Janes
+  publisher: Cancer Research
+  date: '2024-03-22'
+  link: https://doi.org/hbxpwr
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.10.548432
+  title: Proteome-wide copy-number estimation from transcriptomics
+  authors:
+  - Andrew J. Sweatt
+  - Cameron D. Griffiths
+  - B. Bishal Paudel
+  - Kevin A. Janes
+  publisher: openRxiv
+  date: '2023-07-11'
+  link: https://doi.org/hbxpws
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.c.6511816
+  title: Data from An Integrative Gene Expression and Mathematical Flux Balance Analysis
+    Identifies Targetable Redox Vulnerabilities in Melanoma Cells
   authors:
   - B. Bishal Paudel
   - Joshua E. Lewis
@@ -232,9 +292,278 @@
   - John A. McLean
   - Melissa L. Kemp
   - Vito Quaranta
-  publisher: Cancer Research
-  date: '2020-10-15'
-  link: https://doi.org/hbg5vs
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpwt
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.c.6511816.v1
+  title: Data from An Integrative Gene Expression and Mathematical Flux Balance Analysis
+    Identifies Targetable Redox Vulnerabilities in Melanoma Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpwv
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424593
+  title: Supplementary Figures from An Integrative Gene Expression and Mathematical
+    Flux Balance Analysis Identifies Targetable Redox Vulnerabilities in Melanoma
+    Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpww
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424593.v1
+  title: Supplementary Figures from An Integrative Gene Expression and Mathematical
+    Flux Balance Analysis Identifies Targetable Redox Vulnerabilities in Melanoma
+    Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpwx
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424590
+  title: Supplementary Information from An Integrative Gene Expression and Mathematical
+    Flux Balance Analysis Identifies Targetable Redox Vulnerabilities in Melanoma
+    Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpwz
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424590.v1
+  title: Supplementary Information from An Integrative Gene Expression and Mathematical
+    Flux Balance Analysis Identifies Targetable Redox Vulnerabilities in Melanoma
+    Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpw2
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424587.v1
+  title: Table S3 from An Integrative Gene Expression and Mathematical Flux Balance
+    Analysis Identifies Targetable Redox Vulnerabilities in Melanoma Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpw3
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424587
+  title: Table S3 from An Integrative Gene Expression and Mathematical Flux Balance
+    Analysis Identifies Targetable Redox Vulnerabilities in Melanoma Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpw4
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424584
+  title: Table S4 from An Integrative Gene Expression and Mathematical Flux Balance
+    Analysis Identifies Targetable Redox Vulnerabilities in Melanoma Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpw5
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.22424584.v1
+  title: Table S4 from An Integrative Gene Expression and Mathematical Flux Balance
+    Analysis Identifies Targetable Redox Vulnerabilities in Melanoma Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/hbxpw6
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.04.13.536805
+  title: Acute myeloid leukemia stratifies as two clinically relevant sphingolipidomic
+    subtypes
+  authors:
+  - B. Bishal Paudel
+  - Su-Fern Tan
+  - Todd E. Fox
+  - Johnson Ung
+  - Jeremy Shaw
+  - Wendy Dunton
+  - Irene Lee
+  - Arati Sharma
+  - Aaron D. Viny
+  - Brian M. Barth
+  - Martin S. Tallman
+  - Myles Cabot
+  - Francine E. Garrett-Bakelman
+  - Ross L. Levine
+  - Mark Kester
+  - David Claxton
+  - David J. Feith
+  - Kevin A. Janes
+  - Thomas P. Loughran
+  publisher: openRxiv
+  date: '2023-04-17'
+  link: https://doi.org/g6rqh9
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-023-37914-X
+  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
+    the DCIS-like state
+  authors:
+  - Lixin Wang
+  - B. Bishal Paudel
+  - R. Anthony McKnight
+  - Kevin A. Janes
+  publisher: Nature Communications
+  date: '2023-04-13'
+  link: https://doi.org/hbgjzw
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.03.479045
+  title: Heterogeneous, population-level drug-tolerant persisters exhibit ion-channel
+    remodeling and ferroptosis susceptibility
+  authors:
+  - Corey E. Hayford
+  - Blake Baleami
+  - Philip E. Stauffer
+  - B. Bishal Paudel
+  - "Aziz Al\u2019Khafaji"
+  - Amy Brock
+  - Vito Quaranta
+  - Darren R. Tyson
+  - Leonard A. Harris
+  publisher: openRxiv
+  date: '2022-02-05'
+  link: https://doi.org/gsz4xq
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.30.514440
+  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
+    the DCIS-like state
+  authors:
+  - Lixin Wang
+  - B. Bishal Paudel
+  - R. Anthony McKnight
+  - Kevin A. Janes
+  publisher: openRxiv
+  date: '2022-11-01'
+  link: https://doi.org/hbxpw7
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
@@ -255,6 +584,27 @@
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-19-3588
+  title: An Integrative Gene Expression and Mathematical Flux Balance Analysis Identifies
+    Targetable Redox Vulnerabilities in Melanoma Cells
+  authors:
+  - B. Bishal Paudel
+  - Joshua E. Lewis
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Charles J. Robbins
+  - Philip E. Stauffer
+  - Simona G. Codreanu
+  - Stacy D. Sherrod
+  - John A. McLean
+  - Melissa L. Kemp
+  - Vito Quaranta
+  publisher: Cancer Research
+  date: '2020-10-15'
+  link: https://doi.org/hbg5vs
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/818989
   title: Disruption of Redox Balance Enhances the Effects of BRAF-inhibition in Melanoma
     Cells
@@ -269,9 +619,26 @@
   - John A. McLean
   - Melissa L. Kemp
   - Vito Quaranta
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-10-28'
   link: https://doi.org/gkv4d4
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/809889
+  title: Drug-tolerant idling melanoma cells exhibit theory-predicted metabolic low-low
+    phenotype
+  authors:
+  - Dongya Jia
+  - B. Bishal Paudel
+  - Corey E. Hayford
+  - Keisha N. Hardeman
+  - Herbert Levine
+  - "Jos\xE9 N. Onuchic"
+  - Vito Quaranta
+  publisher: openRxiv
+  date: '2019-10-17'
+  link: https://doi.org/gk2bw8
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
@@ -283,6 +650,26 @@
   publisher: Science Signaling
   date: '2019-08-20'
   link: https://doi.org/hbgjzz
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.sabcs18-2894
+  title: "Abstract 2894: Overcoming intrinsic resistance to\n                    <i>BRAF</i>\n\
+    \                    -inhibitors by modulating redox balance in\n            \
+    \        <i>BRAF</i>\n                    -mutated melanoma cells"
+  authors:
+  - B. Bishal Paudel
+  - Leonard A. Harris
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Christian T. Meyer
+  - Arwa A. Abugable
+  - Darren R. Tyson
+  - Joshua P. Fessel
+  - Vito Quaranta
+  publisher: Cancer Research
+  date: '2019-07-01'
+  link: https://doi.org/hbxpw8
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
@@ -316,7 +703,43 @@
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.bpj.2018.01.016
+- id: doi:10.1158/1538-7445.AM2019-670
+  title: 'Abstract 670: Molecular basis of the idling state uncovers vulnerabilities
+    suitable to sequential targeting in melanoma'
+  authors:
+  - Corey E. Hayford
+  - Bishal B. Paudel
+  - Leonard A. Harris
+  - Keisha N. Hardeman
+  - Darren R. Tyson
+  - Vito Quaranta
+  publisher: Cancer Research
+  date: '2019-07-01'
+  link: https://doi.org/hbxpw9
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2019-2894
+  title: "Abstract 2894: Overcoming intrinsic resistance to\n                    <i>BRAF</i>\n\
+    \                    -inhibitors by modulating redox balance in\n            \
+    \        <i>BRAF</i>\n                    -mutated melanoma cells"
+  authors:
+  - B. Bishal Paudel
+  - Leonard A. Harris
+  - Keisha N. Hardeman
+  - Corey E. Hayford
+  - Christian T. Meyer
+  - Arwa A. Abugable
+  - Darren R. Tyson
+  - Joshua P. Fessel
+  - Vito Quaranta
+  publisher: Cancer Research
+  date: '2019-07-01'
+  link: https://doi.org/hbxpxb
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BPJ.2018.01.016
   title: "A Nonquiescent \u201CIdling\u201D Population State in Drug-Treated, BRAF-Mutated\
     \ Melanoma"
   authors:
@@ -333,7 +756,7 @@
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/srep42604
+- id: doi:10.1038/SREP42604
   title: Dependence On Glycolysis Sensitizes BRAF-mutated Melanomas For Increased
     Response To Targeted BRAF Inhibition
   authors:
@@ -352,7 +775,24 @@
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/nmeth.3852
+- id: doi:10.1158/1557-3125.metca15-a43
+  title: 'Abstract A43: BRAF-mutated melanomas exhibit distinct metabolic programs
+    that may determine therapeutic response'
+  authors:
+  - Keisha N. Hardeman
+  - Chengwei Peng
+  - Bishal Paudel
+  - Darren Tyson
+  - Jamey D. Young
+  - Vito Quaranta
+  - Joshua P. Fessel
+  publisher: Molecular Cancer Research
+  date: '2016-01-01'
+  link: https://doi.org/hbxpxc
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/NMETH.3852
   title: An unbiased metric of antiproliferative drug effect in vitro
   authors:
   - Leonard A Harris
@@ -369,7 +809,7 @@
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/jcp.24888
+- id: doi:10.1002/JCP.24888
   title: Quantifying heterogeneity and dynamics of clonal fitness in response to perturbation
   authors:
   - Peter L. Frick
@@ -382,3 +822,120 @@
   orcid: 0000-0002-5426-7048
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1158/1538-7445.am2013-3403
+  title: 'Abstract 3403: A stochastically arising subpopulation of B-RafV600E-expressing
+    melanoma continues division in the presence of vemurafenib.'
+  authors:
+  - Darren R. Tyson
+  - Chengwei Peng
+  - Keisha N. Hardeman
+  - Bishal Paudel
+  - Vito Quaranta
+  publisher: Cancer Research
+  date: '2013-04-01'
+  link: https://doi.org/hbxpxd
+  orcid: 0000-0002-5426-7048
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/bloodadvances.2023010535
+  title: Acute myeloid leukemia stratifies as 2 clinically relevant sphingolipidomic
+    subtypes
+  authors:
+  - B. Bishal Paudel
+  - Su-Fern Tan
+  - Todd E. Fox
+  - Johnson Ung
+  - Upendarrao Golla
+  - Jeremy J. P. Shaw
+  - Wendy Dunton
+  - Irene Lee
+  - Wisam A. Fares
+  - Satyam Patel
+  - Arati Sharma
+  - Aaron D. Viny
+  - Brian M. Barth
+  - Martin S. Tallman
+  - Myles Cabot
+  - Francine E. Garrett-Bakelman
+  - Ross L. Levine
+  - Mark Kester
+  - David J. Feith
+  - David Claxton
+  - Kevin A. Janes
+  - Thomas P. Loughran
+  publisher: Blood Advances
+  date: '2024-03-01'
+  link: https://doi.org/hbgjzv
+  type: paper
+  description: 'Biochemical and metabolic profiling integrated with current AML risk
+    classifiers identifies distinct molecular subtypes with differential drug sensitivities.
+
+    '
+  image: images/bloodadv.jpg
+  buttons:
+  - type: paper
+  tags:
+  - AML
+  - metabolism
+  - risk classification
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-023-37914-x
+  title: Nucleocytoplasmic transport of active HER2 causes fractional escape from
+    the DCIS-like state
+  authors:
+  - Lixin Wang
+  - B. Bishal Paudel
+  - R. Anthony McKnight
+  - Kevin A. Janes
+  publisher: Nature Communications
+  date: '2023-04-13'
+  link: https://doi.org/hbgjzw
+  type: paper
+  description: 'Oncogeneic receptor activation reconfigures nucleocytoplasmic transport
+    leading to mislocalization of key regulators and early onset of tumorigenesis
+    in breast epithelia.
+
+    '
+  image: images/natcom.jpg
+  buttons:
+  - type: paper
+  tags:
+  - Breast cancer
+  - systems biology
+  - nucleocytoplasmic transport
+  - tumorigenesis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbc.2025.111062
+  title: Age-dependent topoisomerase I depletion alters recruitment of rDNA silencing
+    complexes
+  authors:
+  - Lindsey N. Power
+  - Natalia Zawrotna
+  - Manikarna Dinda
+  - Abigail E. Weir
+  - B. Bishal Paudel
+  - Oshil Ghimire
+  - Karolina Kisiel
+  - Christopher T. Letai
+  - Kevin A. Janes
+  - Jeffrey S. Smith
+  publisher: Journal of Biological Chemistry
+  date: '2026-02-01'
+  link: https://doi.org/hbgrkv
+  type: paper
+  description: 'We developed an automated image analytical pipeline to process replicative
+    budding events from Microfluidic microscopic images. The pipeline Microfluidic
+    (Micro) Budding Replicative Events Workflow (BREW)--MicroBREW automatically detects
+    and process high-throughput images and results in easy-to-summarize results.
+
+    '
+  buttons:
+    -type: paper
+  tags:
+  - tool
+  - yeast
+  - pipeline
+  plugin: sources.py
+  file: sources.yaml

@@ -2,7 +2,7 @@
 name: Julena Patel
 image: images/jpatel.jpg
 role: undergrad 
-affiliation: University of Virginia, Biomedical Engineering
+affiliation: University of Virginia, (Biomedical Engineering, Research Volunteer, Summer 2026)
 group: trainee
 links:
   email: hdh6ux@virginia.edu

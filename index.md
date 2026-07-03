@@ -85,7 +85,7 @@ Our lab brings together researchers with backgrounds in **biology, data science,
 
 {%
   include feature.html
-  image="images/p3lab_summer_2026.jpeg"
+  image="images/LabGroup1.jpeg"
   link="team"
   title="Our Team"
   text=text

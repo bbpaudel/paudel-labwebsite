@@ -90,3 +90,22 @@ Our lab brings together researchers with backgrounds in **biology, data science,
   title="Our Team"
   text=text
 %}
+
+{% include section.html %}
+
+## Recent News & Updates
+
+{%
+  include list.html
+  data="posts"
+  component="post-excerpt"
+  limit=5
+%}
+
+{%
+  include button.html
+  link="blog"
+  text="View all news"
+  icon="fa-solid fa-arrow-right"
+  style="bare"
+%}

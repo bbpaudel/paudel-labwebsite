@@ -93,31 +93,23 @@ Our lab brings together researchers with backgrounds in **biology, data science,
 
 {% include section.html %}
 
-## Recent News & Updates
+## Latest News
 
-{% capture main_col %}
-
-Our lab brings together researchers with backgrounds in **biology, data science, engineering, and medicine**. For more updates, visit our [full news page](blog/).
-
-{% endcapture %}
-
-{% capture sidebar %}
-
-### Latest News
-
-{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-{% for post in sorted_posts limit:3 %}
-  **[{{ post.title }}]({{ post.url | relative_url }})**  
-  *{{ post.date | date: "%b %d, %Y" }}*
-  
-{% endfor %}
-
-[View all news →](blog/)
-
-{% endcapture %}
-
-{%
-  include cols.html
-  col1=main_col
-  col2=sidebar
-%}
+<div markdown="0" style="display: grid; grid-template-columns: 2fr 1fr; gap: 2rem;">
+  <div>
+    <p>For the latest updates from our lab, visit our <a href="blog/">full news page</a> to see all announcements, publications, and lab highlights.</p>
+  </div>
+  <aside style="border-left: 3px solid #007bff; padding-left: 1rem;">
+    <h3>Recent Updates</h3>
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts limit:3 %}
+      <p style="margin: 0.5rem 0;">
+        <strong><a href="{{ post.url | relative_url }}">{{ post.title }}</a></strong><br>
+        <small>{{ post.date | date: "%b %d, %Y" }}</small>
+      </p>
+    {% endfor %}
+    <p style="margin-top: 1rem;">
+      <a href="blog/">→ View all news</a>
+    </p>
+  </aside>
+</div>

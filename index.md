@@ -4,7 +4,7 @@ display_title: P<sup>3</sup> Systems Biology Lab
 layout: default
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 300px; gap: 3rem; align-items: start;">
+<div style="display: grid; grid-template-columns: 1fr 300px; gap: 1.5rem; align-items: start;">
   <main>
     {% capture text %}
 
@@ -96,7 +96,7 @@ Our lab brings together researchers with backgrounds in **biology, data science,
   <aside style="border: 1px solid #ddd; padding: 1.5rem; border-radius: 8px; background-color: #f9f9f9; position: sticky; top: 20px;">
     <h3 style="margin-top: 0; border-bottom: 2px solid #007bff; padding-bottom: 0.5rem;">Latest News</h3>
     {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-    {% for post in sorted_posts limit:3 %}
+    {% for post in sorted_posts limit:5 %}
       <div style="margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eee;">
         <p style="margin: 0; font-weight: bold;"><a href="{{ post.url | relative_url }}" style="color: #007bff; text-decoration: none;">{{ post.title }}</a></p>
         <p style="margin: 0.3rem 0 0 0; font-size: 0.9rem; color: #666;">{{ post.date | date: "%b %d, %Y" }}</p>

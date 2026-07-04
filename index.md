@@ -21,8 +21,6 @@ Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer
 
     {% include section.html %}
 
-    ## Highlights
-
     {% capture text %}
 
 Our research focuses on **integrating transcriptomics, proteomics, lipidomics, and functional assays** to build quantitative models of cancer cell behavior. We are particularly interested in emergent cancer phenotypes and how signaling network states shape therapeutic response and resistance.

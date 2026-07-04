@@ -95,17 +95,29 @@ Our lab brings together researchers with backgrounds in **biology, data science,
 
 ## Recent News & Updates
 
-{%
-  include list.html
-  data="posts"
-  component="post-excerpt"
-  limit=5
-%}
+{% capture main_col %}
+
+Our lab brings together researchers with backgrounds in **biology, data science, engineering, and medicine**. For more updates, visit our [full news page](blog/).
+
+{% endcapture %}
+
+{% capture sidebar %}
+
+### Latest News
+
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% for post in sorted_posts limit:3 %}
+  **[{{ post.title }}]({{ post.url | relative_url }})**  
+  *{{ post.date | date: "%b %d, %Y" }}*
+  
+{% endfor %}
+
+[View all news →](blog/)
+
+{% endcapture %}
 
 {%
-  include button.html
-  link="blog"
-  text="View all news"
-  icon="fa-solid fa-arrow-right"
-  style="bare"
+  include cols.html
+  col1=main_col
+  col2=sidebar
 %}

@@ -1,0 +1,29 @@
+---
+---
+
+.feature,
+.feature[data-stack] {
+  align-items: stretch !important;
+}
+
+.feature-text {
+  min-height: 0 !important;        /* allow flex children to size down/up correctly */
+  overflow: visible !important;    /* prevent clipping */
+  max-height: none !important;
+}
+
+.feature-text > * {
+  margin: 0 0 1rem 0 !important;   /* ensure paragraphs have spacing */
+  white-space: normal !important;
+}
+
+/* extra safety: remove any line-clamp if present */
+[class*="line-clamp"],
+[class*="-line-clamp"],
+p[style*="line-clamp"],
+p[style*="-webkit-line-clamp"] {
+  -webkit-line-clamp: unset !important;
+  display: block !important;
+  overflow: visible !important;
+  max-height: none !important;
+}

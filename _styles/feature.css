@@ -3,7 +3,7 @@
 .feature {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: stretch; /* allow text column to expand vertically so content isn't clipped */
   gap: 40px;
   margin: 48px 0; /* a touch more breathing room */
   padding: 1rem 0;
@@ -31,6 +31,12 @@
 .feature-text {
   flex-grow: 1;
   max-width: 100%;
+  min-height: 0; /* prevents flex children from being clipped */
+  overflow: visible; /* ensure text is fully visible */
+}
+
+.feature-text > * {
+  margin: 0 0 1rem 0; /* consistent paragraph spacing so content is readable */
 }
 
 /* Title styling to be consistent and centered above the text block */

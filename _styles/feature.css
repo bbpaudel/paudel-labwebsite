@@ -1,17 +1,21 @@
-/* increased wrap threshold so feature layout becomes column at a sensible width */
+@charset "UTF-8";
+/* unchanged wrap threshold so feature layout becomes column at a sensible width */
 .feature {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 40px;
-  margin: 40px 0;
+  margin: 48px 0; /* a touch more breathing room */
+  padding: 1rem 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
-/* Make feature image larger on wide screens so the schematic/photo uses more horizontal space */
+/* Default side-by-side image (desktop) */
 .feature-image {
   flex-shrink: 0;
-  width: 55%; /* increased from 40% */
-  aspect-ratio: 3/2;
+  width: 55%;
+  aspect-ratio: 16/9; /* slightly wider for schematics */
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -23,21 +27,48 @@
   object-fit: cover;
 }
 
+/* Text column grows to fill remaining space */
 .feature-text {
   flex-grow: 1;
+  max-width: 100%;
 }
 
+/* Title styling to be consistent and centered above the text block */
 .feature-title {
   font-size: var(--large);
-  text-align: center;
+  text-align: left; /* left aligns title when stacked for consistency */
   font-family: var(--heading);
   font-weight: var(--semi-bold);
+  margin-bottom: 0.5rem;
 }
 
+/* Flip for image/text order when desired */
 .feature[data-flip] {
   flex-direction: row-reverse;
 }
 
+/* Stacked layout: text first then image beneath, maximizes whitespace and makes image full width */
+.feature[data-stack] {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 24px;
+  margin: 56px 0;
+}
+
+.feature[data-stack] .feature-text {
+  order: 0;
+  padding: 0 0.25rem;
+}
+
+.feature[data-stack] .feature-image {
+  order: 1;
+  width: 100%;
+  aspect-ratio: 16/9;
+  max-width: none;
+  margin: 0;
+}
+
+/* Maintain mobile behavior — features become vertical at narrower widths */
 @media (max-width: 1000px) {
   .feature {
     flex-direction: column !important;

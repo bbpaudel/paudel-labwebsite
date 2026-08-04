@@ -84,5 +84,32 @@
     max-width: 500px;
   }
 }
+/* Force visibility of text in any remaining cases (high-specificity overrides) */
+.feature,
+.feature[data-stack] {
+  align-items: stretch !important;
+}
+
+.feature-text {
+  min-height: 0 !important;
+  overflow: visible !important;
+  max-height: none !important;
+}
+
+.feature-text > * {
+  margin: 0 0 1rem 0 !important;
+  white-space: normal !important;
+}
+
+/* Remove any programmatic line-clamp if present */
+[class*=line-clamp],
+[class*=-line-clamp],
+p[style*=line-clamp],
+p[style*=-webkit-line-clamp] {
+  -webkit-line-clamp: unset !important;
+  display: block !important;
+  overflow: visible !important;
+  max-height: none !important;
+}
 
 /*# sourceMappingURL=feature.css.map */

@@ -1,3 +1,4 @@
+/* increased wrap threshold so feature layout becomes column at a sensible width */
 .feature {
   display: flex;
   justify-content: center;
@@ -6,9 +7,10 @@
   margin: 40px 0;
 }
 
+/* Make feature image larger on wide screens so the schematic/photo uses more horizontal space */
 .feature-image {
   flex-shrink: 0;
-  width: 40%;
+  width: 55%; /* increased from 40% */
   aspect-ratio: 3/2;
   border-radius: var(--rounded);
   overflow: hidden;
@@ -36,13 +38,13 @@
   flex-direction: row-reverse;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .feature {
     flex-direction: column !important;
   }
   .feature-image {
     width: 100%;
-    max-width: 400px;
+    max-width: 500px;
   }
 }
 

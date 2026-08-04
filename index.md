@@ -8,7 +8,7 @@ layout: default
   <main>
     {% capture text %}
 
-Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer Center. We develop **data-driven and systems biology approaches** to understand cancer metabolism, drug response, and cellular heterogeneity by integrating multi-omics data, computational modeling, and experimental measurements. The long-term objective of our research program is to gain a predictive understanding of how dysregulated signaling (altered metabolism, transport, etc.) gives rise to emergent cancer phenotypes and their associated vulnerabilities.
+Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer Center. We develop **data-driven and systems biology approaches** to understand cancer metabolism, drug response, a[...] 
 
     {% endcapture %}
 
@@ -23,7 +23,7 @@ Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer
 
     {% capture text %}
 
-Our research focuses on **integrating transcriptomics, proteomics, lipidomics, and functional assays** to build quantitative models of cancer cell behavior. We are particularly interested in emergent cancer phenotypes and how signaling network states shape therapeutic response and resistance.
+Our research focuses on **integrating transcriptomics, proteomics, lipidomics, and functional assays** to build quantitative models of cancer cell behavior. We are particularly interested in emerg[...] 
 
     {%
       include button.html
@@ -42,11 +42,12 @@ Our research focuses on **integrating transcriptomics, proteomics, lipidomics, a
       link="research"
       title="Our Research"
       text=text
+      stack=true
     %}
 
     {% capture text %}
 
-We develop and apply **computational tools**, statistical frameworks, and network-based models to analyze complex biological datasets. Our projects span **experimentation, multi-modal data integration, metabolic network modeling, and statistical modeling for predictive signatures** that support translational cancer research.
+We develop and apply **computational tools**, statistical frameworks, and network-based models to analyze complex biological datasets. Our projects span **experimentation, multi-modal data integra[...] 
 
     {%
       include button.html
@@ -67,11 +68,12 @@ We develop and apply **computational tools**, statistical frameworks, and networ
       flip=true
       style="bare"
       text=text
+      stack=true
     %}
 
     {% capture text %}
 
-Our lab brings together researchers with backgrounds in **biology, data science, engineering, and medicine**. We value collaboration, mentorship, and rigorous quantitative thinking, and we are always excited to work with motivated students and trainees.
+Our lab brings together researchers with backgrounds in **biology, data science, engineering, and medicine**. We value collaboration, mentorship, and rigorous quantitative thinking, and we are alw[...] 
 
     {%
       include button.html
@@ -90,6 +92,7 @@ Our lab brings together researchers with backgrounds in **biology, data science,
       link="team"
       title="Our Team"
       text=text
+      stack=true
     %}
   </main>
 
@@ -107,3 +110,4 @@ Our lab brings together researchers with backgrounds in **biology, data science,
     </p>
   </aside>
 </div>
+

@@ -1,0 +1,105 @@
+@charset "UTF-8";
+/* Responsive and spacing adjustments for p3sysbiolab.org
+   Purpose: reduce excessive white space, tighten vertical rhythm,
+   and add mobile-first rules so the site looks better on phones.
+   Placed as a separate file so it's easy to tweak or remove.
+*/
+/* Page container to limit line length and provide horizontal padding */
+.container {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Tighter vertical rhythm */
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem; /* use gap instead of large margins */
+}
+
+section {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* Headings & paragraphs—reduce default whitespace */
+h1, h2, h3, h4 {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.15;
+}
+
+p {
+  margin: 0 0 0.75rem 0;
+  line-height: 1.5;
+}
+
+/* Reduce large separators */
+hr {
+  margin: 0.8rem 0;
+}
+
+/* Make images responsive */
+img, .portrait img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Header / nav compacting (adjust selectors as needed) */
+.site-header, header {
+  padding: 0.6rem 1rem;
+}
+
+/* Portrait / hero tweaks */
+.portrait, .hero {
+  margin: 0 auto;
+  padding: 0.5rem 0;
+  max-width: 600px;
+}
+
+/* Small tweaks for cards/post excerpts */
+.card, .post-excerpt {
+  margin: 0;
+  padding: 0.75rem;
+}
+
+/* Mobile-first responsive rules */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.6rem;
+  }
+  h2 {
+    font-size: 1.25rem;
+  }
+  body {
+    font-size: 16px;
+  }
+  /* Reduce section spacing on phones */
+  section {
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+  }
+  /* Compress header more */
+  .site-header, header {
+    padding: 0.5rem;
+  }
+  /* Stack items and reduce gaps */
+  main {
+    gap: 0.5rem;
+  }
+  /* Reduce image/portrait margins that create white space */
+  .portrait, .hero {
+    padding: 0.25rem 0;
+    max-width: 100%;
+  }
+  /* Make any two-column layouts stack */
+  .cols-2, .two-col {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */

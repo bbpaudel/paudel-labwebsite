@@ -8,7 +8,7 @@ layout: default
   <main>
     {% capture text %}
 
-Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer Center. We develop **data-driven and systems biology approaches** to understand cancer metabolism, drug response, a[...] 
+Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer Center. A central premise of our work is that understanding and disrupting these adaptive processes requires a systems-level approach—one that reveals how dysregulated signaling establishes biochemical states that drive long-term cell fate decisions and clinically relevant phenotypes. The long-term objective of our research program is to develop a predictive understanding of how dysregulated signaling states emerge, how they alter metabolic and epigenetic programs, and how these signaling states can be reprogrammed for therapeutic benefit. 
 
     {% endcapture %}
 
@@ -23,7 +23,8 @@ Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer
 
     {% capture text %}
 
-Our research focuses on **integrating transcriptomics, proteomics, lipidomics, and functional assays** to build quantitative models of cancer cell behavior. We are particularly interested in emerg[...] 
+Our research focuses on **integrating transcriptomics, proteomics, lipidomics, and functional assays** to build quantitative models of cancer cell behavior. We aim to develop generalizable frameworks that combine experimental systems, bioengineering, computational modeling, and bioinformatics. Using classic systems biology approach, our vision is to use these frameworks to enable the identification of cellular mechanisms governing divergent cell fates, metabolic homeostasis, and responses to perturbation. 
+
 
     {%
       include button.html
@@ -47,7 +48,7 @@ Our research focuses on **integrating transcriptomics, proteomics, lipidomics, a
 
     {% capture text %}
 
-We develop and apply **computational tools**, statistical frameworks, and network-based models to analyze complex biological datasets. Our projects span **experimentation, multi-modal data integra[...] 
+We develop and apply **computational tools**, statistical frameworks, and network-based models to analyze complex biological datasets. Our projects span experimentation, multi-modal data integration, mathematical modeling to investigate how cellular signaling is disrupted in cancer cells, how these alterations lead to emergent cancer phenotypes. 
 
     {%
       include button.html
@@ -73,7 +74,7 @@ We develop and apply **computational tools**, statistical frameworks, and networ
 
     {% capture text %}
 
-Our lab brings together researchers with backgrounds in **biology, data science, engineering, and medicine**. We value collaboration, mentorship, and rigorous quantitative thinking, and we are alw[...] 
+Our lab brings together researchers with backgrounds in **biology, data science, engineering, and medicine**. We value collaboration, mentorship, and rigorous quantitative thinking, and we are always looking for enthusiastic and motivated members to join our group.  
 
     {%
       include button.html

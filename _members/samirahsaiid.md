@@ -1,7 +1,7 @@
 ---
 name: Samirah Saiid
 image: images/saiids.jpg
-role: Graduate Student 
+role: phd 
 affiliation: University of Virginia, Department of Biochemistry & Molecular Genetics
 group: trainee
 links:

@@ -2,7 +2,7 @@
 name: Van Beckett Lisle
 image: images/VBL_headshot.jpg
 role: undergrad
-affiliation: University of Virginia (Biology)
+affiliation: University of Virginia, Biology (Class of 2026)
 group: trainee
 links:
   email: utn2cp@virginia.edu

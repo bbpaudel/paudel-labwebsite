@@ -1,7 +1,6 @@
 ---
 name: Abhiram Kashyap
 image: images/abhiram_k.png
-role: hs student 
 affiliation: Thomas Jefferson High School for Science and Technology 
 group: trainee
 links:

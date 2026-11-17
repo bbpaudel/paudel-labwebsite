@@ -17,6 +17,7 @@ Welcome to the **Paudel Lab** at the University of Virginia Comprehensive Cancer
       image="images/Logo_Paudel.png"
       title=page.display_title
       text=text
+      stack=true
     %}
 
     {% include section.html %}
